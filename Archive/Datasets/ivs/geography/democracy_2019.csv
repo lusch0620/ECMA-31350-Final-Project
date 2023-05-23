@@ -1,0 +1,160 @@
+Country,Electoral Process 2019,Political Rights 2019,Civil Liberties 2019,Democracy Score 2019,Democratic 2019
+Afghanistan,3,13,14,30,False
+Albania,8,28,40,77,True
+Algeria,3,10,24,37,False
+Angola,3,11,20,34,False
+Argentina,11,34,50,96,True
+Armenia,6,20,31,57,False
+Australia,12,40,58,111,True
+Austria,12,37,56,106,True
+Azerbaijan,0,2,9,11,False
+Bahrain,2,2,10,14,False
+Bangladesh,5,17,24,46,False
+Belarus,0,5,14,19,False
+Belgium,12,39,57,109,True
+Belize,12,36,50,99,True
+Benin,9,32,47,89,True
+Bhutan,10,29,30,70,True
+Bolivia,10,28,39,78,True
+Bosnia and Herzegovina,6,19,34,59,False
+Botswana,10,28,44,83,True
+Brazil,10,30,45,86,True
+Bulgaria,11,33,47,92,True
+Burkina Faso,7,23,37,68,True
+Burundi,0,3,11,14,False
+Cambodia,1,6,20,27,False
+Cameroon,1,7,12,20,False
+Canada,12,40,59,112,True
+Central African Republic,3,4,5,12,False
+Chad,1,3,14,18,False
+Chile,12,37,57,107,True
+China,0,-1,12,11,False
+Colombia,10,29,37,77,True
+Comoros,8,21,29,58,False
+Congo (Brazzaville),0,2,19,21,False
+Congo (Kinshasa),0,3,12,15,False
+Costa Rica,12,38,53,104,True
+Croatia,12,36,49,98,True
+Cyprus,12,38,56,107,True
+Czech Republic,12,36,55,104,True
+Denmark,12,40,57,110,True
+Djibouti,2,7,19,28,False
+Dominican Republic,9,26,41,77,True
+Ecuador,7,25,38,71,True
+Egypt,2,8,14,24,False
+El Salvador,11,32,35,79,True
+Estonia,12,38,56,107,True
+Ethiopia,1,7,12,20,False
+Finland,12,40,60,113,True
+France,12,38,52,103,True
+Gabon,0,4,19,23,False
+Georgia,8,25,38,72,True
+Germany,12,39,55,107,True
+Ghana,12,36,47,96,True
+Greece,12,36,51,100,True
+Guatemala,8,22,31,62,True
+Guinea,6,17,26,49,False
+Haiti,5,17,24,46,False
+Honduras,7,20,26,53,False
+Hong Kong,2,15,44,61,False
+Hungary,9,27,43,80,True
+Iceland,12,37,57,107,True
+India,12,35,40,88,True
+Indonesia,11,30,32,74,True
+Iran,3,7,11,21,False
+Iraq,8,17,15,40,False
+Ireland,12,39,58,110,True
+Israel,12,35,43,91,True
+Italy,12,36,53,102,True
+Jamaica,12,34,44,91,True
+Japan,12,40,56,109,True
+Jordan,3,12,25,40,False
+Kazakhstan,1,5,17,23,False
+Kenya,6,19,29,54,False
+Kosovo,9,24,30,64,True
+Kuwait,2,13,23,38,False
+Kyrgyzstan,4,12,26,42,False
+Laos,0,2,12,14,False
+Latvia,12,35,52,100,True
+Lebanon,5,14,31,50,False
+Lesotho,10,27,36,74,True
+Liberia,8,27,35,71,True
+Libya,0,1,8,9,False
+Lithuania,12,38,53,104,True
+Luxembourg,12,38,60,111,True
+Madagascar,9,24,32,66,True
+Malawi,8,26,38,73,True
+Malaysia,6,21,31,58,False
+Maldives,5,14,21,40,False
+Mali,6,18,26,50,False
+Malta,12,35,56,104,True
+Mauritania,5,11,21,37,False
+Mauritius,12,37,52,102,True
+Mexico,9,27,36,73,True
+Moldova,9,24,34,68,True
+Mongolia,11,36,49,97,True
+Montenegro,8,23,42,74,True
+Morocco,5,14,25,44,False
+Mozambique,5,19,32,56,False
+Myanmar,5,13,17,35,False
+Namibia,10,29,46,86,True
+Nepal,10,25,29,64,False
+Netherlands,12,40,59,112,True
+New Zealand,12,40,58,111,True
+Nicaragua,3,10,22,35,False
+Niger,6,20,29,55,False
+Nigeria,9,25,25,59,False
+North Macedonia,6,22,37,65,False
+Northern Cyprus,11,31,50,93,True
+Norway,12,40,60,113,True
+Oman,2,6,17,25,False
+Pakistan,5,17,22,44,False
+Panama,12,36,48,97,True
+Paraguay,10,28,37,76,True
+Peru,11,31,42,85,True
+Philippines,9,26,35,71,True
+Poland,11,35,49,96,True
+Portugal,12,39,57,109,True
+Qatar,2,7,18,27,False
+Romania,11,34,47,93,True
+Russia,0,5,15,20,False
+Rwanda,2,9,14,25,False
+Saudi Arabia,0,1,6,7,False
+Senegal,10,30,42,83,True
+Serbia,8,24,43,76,True
+Sierra Leone,10,28,37,76,True
+Singapore,4,19,32,55,False
+Slovakia,12,36,52,101,True
+Slovenia,12,39,55,107,True
+Somalia,0,1,6,7,False
+South Africa,12,33,46,92,True
+South Korea,11,33,50,95,True
+South Sudan,1,-2,4,3,False
+Spain,12,39,55,107,True
+Sri Lanka,9,24,32,66,True
+Sudan,2,3,4,9,False
+Suriname,12,34,43,90,True
+Sweden,12,40,60,113,True
+Switzerland,12,39,57,109,True
+Syria,0,-3,3,0,False
+Taiwan,12,37,56,106,True
+Tajikistan,0,0,9,9,False
+Tanzania,7,20,25,52,False
+Thailand,0,5,25,30,False
+Togo,4,15,28,47,False
+Trinidad and Tobago,11,33,49,94,True
+Tunisia,11,31,38,81,True
+Turkey,5,15,16,36,False
+Turkmenistan,0,0,2,2,False
+Uganda,3,11,25,39,False
+Ukraine,9,26,34,70,True
+United Arab Emirates,1,5,12,18,False
+United Kingdom,12,39,54,106,True
+United States,10,33,53,97,True
+Uruguay,12,40,58,111,True
+Uzbekistan,0,1,8,9,False
+Venezuela,0,3,16,19,False
+Vietnam,0,3,17,20,False
+Yemen,0,1,10,11,False
+Zambia,6,22,32,60,False
+Zimbabwe,3,12,19,34,False
