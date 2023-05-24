@@ -1,0 +1,1972 @@
+,Country A,Country B,Year,Conflict Type,Cumulative Intensity
+0,India,India,2012,3,0
+1,India,India,2014,3,0
+2,Egypt,Israel,1967,2,1
+3,Egypt,Israel,1969,2,1
+4,Egypt,Israel,1970,2,1
+5,Egypt,Israel,1973,2,1
+18,Libya,Libya,2011,4,1
+20,Libya,Libya,2014,3,1
+21,Libya,Libya,2015,3,1
+22,Libya,Libya,2017,3,1
+23,Libya,Libya,2019,4,1
+24,Libya,Libya,2020,4,1
+25,Mali,Algeria,2009,3,0
+26,Mali,Mali,2012,3,0
+27,Mali,Mali,2013,4,1
+28,Mali,Mali,2014,4,1
+29,Mali,Mali,2015,4,1
+30,Mali,Mali,2016,4,1
+31,Mali,Algeria,2017,4,1
+32,Mali,Mali,2018,4,1
+33,Mali,Mali,2019,4,1
+34,Mali,Mali,2020,4,1
+35,Mali,Mali,2021,4,1
+37,China,China,2008,3,0
+38,Bangladesh,Bangladesh,2005,3,0
+39,Bangladesh,Philippines,2006,3,0
+40,Ethiopia,Libya,1991,3,0
+41,Myanmar,Myanmar,1991,3,0
+42,Myanmar,Myanmar,1995,3,0
+43,Myanmar,Myanmar,2000,3,0
+44,Myanmar,Myanmar,2001,3,0
+45,Myanmar,Myanmar,2005,3,0
+46,Myanmar,Myanmar,2006,3,0
+47,Myanmar,Myanmar,2007,3,0
+48,Malaysia,Philippines,2013,3,0
+55,Ukraine,Ukraine,2014,3,0
+56,Ukraine,Ukraine,2014,4,1
+57,Ukraine,Ukraine,2014,4,1
+58,Ukraine,Ukraine,2014,4,1
+59,Ukraine,Ukraine,2015,4,1
+60,Ukraine,Ukraine,2016,4,1
+61,Ukraine,Ukraine,2017,4,1
+62,Ukraine,Ukraine,2018,4,1
+63,Ukraine,Ukraine,2019,4,1
+64,Ukraine,Ukraine,2020,4,1
+65,Ukraine,Ukraine,2021,4,1
+66,Kyrgyzstan,Tajikistan,2021,2,0
+67,Russia,Iraq,2015,3,0
+68,Russia,Iraq,2016,3,0
+69,Russia,Iraq,2017,3,0
+70,Russia,Iraq,2018,3,0
+71,Russia,Iraq,2019,3,0
+72,Russia,Iraq,2020,3,0
+82,Mali,Mauritania,2015,3,0
+83,Afghanistan,Iraq,2015,4,0
+84,Afghanistan,Iraq,2016,4,1
+85,Afghanistan,Iraq,2017,4,1
+86,Afghanistan,Iraq,2018,4,1
+87,Afghanistan,Iraq,2019,4,1
+88,Afghanistan,Iraq,2020,4,1
+89,Afghanistan,Iraq,2021,4,1
+90,Cameroon,Iraq,2015,4,0
+91,Cameroon,Iraq,2016,3,0
+92,Cameroon,Iraq,2019,4,0
+93,Cameroon,Iraq,2021,4,0
+94,Niger,Iraq,2015,4,0
+95,Niger,Iraq,2016,4,0
+96,Niger,Iraq,2017,4,0
+97,Niger,Iraq,2018,4,0
+98,Niger,Iraq,2019,4,1
+99,Niger,Iraq,2020,4,1
+100,Niger,Iraq,2021,4,1
+101,Chad,Iraq,2015,3,0
+102,Chad,Iraq,2017,3,0
+103,Chad,Iraq,2018,3,0
+104,Chad,Iraq,2019,3,0
+105,Chad,Iraq,2020,3,0
+106,Chad,Iraq,2021,3,0
+107,Nigeria,Iraq,2015,4,1
+108,Nigeria,Iraq,2016,4,1
+109,Nigeria,Iraq,2017,4,1
+110,Nigeria,Iraq,2018,4,1
+111,Nigeria,Iraq,2019,4,1
+112,Nigeria,Iraq,2020,4,1
+113,Nigeria,Iraq,2021,4,1
+114,Yemen,Iraq,2015,3,0
+115,Yemen,Iraq,2017,3,0
+116,Yemen,Iraq,2020,3,0
+124,Egypt,Iraq,2015,3,0
+125,Egypt,Iraq,2016,3,1
+126,Egypt,Iraq,2017,3,1
+127,Egypt,Iraq,2018,3,1
+128,Egypt,Iraq,2019,3,1
+129,Egypt,Iraq,2020,3,1
+130,Egypt,Iraq,2021,3,1
+131,India,Myanmar,2015,3,0
+132,India,Myanmar,2016,3,0
+133,India,Myanmar,2017,3,0
+134,India,Myanmar,2018,3,0
+135,Bangladesh,Iraq,2016,3,0
+136,Bangladesh,Iraq,2017,3,0
+137,Lebanon,Iraq,2014,3,0
+138,Lebanon,Iraq,2015,3,0
+139,Lebanon,Iraq,2017,3,0
+140,Afghanistan,United Kingdom,2001,2,1
+141,Libya,Iraq,2015,3,0
+142,Libya,Iraq,2016,4,1
+143,Libya,Iraq,2017,4,1
+144,Libya,Iraq,2018,4,1
+145,Libya,Iraq,2019,4,1
+146,Algeria,Iraq,2015,3,0
+149,Burkina Faso,Iraq,2019,4,0
+150,Burkina Faso,Iraq,2020,4,0
+151,Burkina Faso,Iraq,2021,4,0
+152,Jordan,Iraq,2016,3,0
+153,Turkey,Iraq,2015,3,0
+154,Turkey,Iraq,2016,3,1
+155,Turkey,Iraq,2017,3,1
+156,Pakistan,Iraq,2016,3,0
+157,Pakistan,Iraq,2017,3,0
+158,Pakistan,Iraq,2018,3,0
+159,Pakistan,Iraq,2019,3,0
+160,Pakistan,Iraq,2021,3,0
+162,Mali,Iraq,2017,4,0
+163,Mali,Iraq,2018,4,0
+164,Mali,Iraq,2019,4,0
+165,Mali,Iraq,2020,4,0
+166,Mali,Iraq,2021,4,0
+167,Cameroon,Cameroon,2017,3,0
+168,Cameroon,Cameroon,2018,3,0
+169,Cameroon,Cameroon,2019,3,1
+170,Cameroon,Cameroon,2020,3,1
+171,Cameroon,Cameroon,2021,3,1
+175,Iran,Iraq,2017,3,0
+176,Philippines,Iraq,2016,3,0
+177,Philippines,Iraq,2017,3,1
+178,Philippines,Iraq,2018,3,1
+179,Philippines,Iraq,2019,3,1
+180,Philippines,Iraq,2020,3,1
+181,Philippines,Iraq,2021,3,1
+182,Tunisia,Iraq,2016,3,0
+183,Iran,Israel,2018,2,0
+184,Iran,Israel,2019,2,0
+185,Iran,Israel,2020,2,0
+186,Iran,Israel,2021,2,0
+190,Mozambique,Iraq,2019,3,0
+191,Mozambique,Iraq,2020,3,1
+192,Mozambique,Iraq,2021,4,1
+193,Ethiopia,Ethiopia,2019,3,0
+194,Tanzania,Iraq,2020,3,0
+196,Bolivia,Peru,1946,3,1
+197,Bolivia,Bolivia,1952,3,1
+198,Bolivia,Colombia,1967,3,1
+207,China,India,1946,3,1
+208,China,India,1947,3,1
+209,China,India,1948,3,1
+210,China,India,1949,3,1
+215,Netherlands,Indonesia,1946,1,0
+216,Netherlands,Indonesia,1947,1,0
+217,Netherlands,Indonesia,1948,1,0
+218,Netherlands,Indonesia,1949,1,0
+219,Iran,Iran,1946,4,0
+220,Iran,Iran,1966,3,1
+221,Iran,Iran,1967,3,1
+222,Iran,Iran,1968,3,1
+223,Iran,Iran,1979,3,1
+224,Iran,Iran,1980,3,1
+225,Iran,Iran,1981,3,1
+226,Iran,Iran,1982,3,1
+227,Iran,Iran,1983,3,1
+228,Iran,Iran,1984,3,1
+229,Iran,Iran,1985,3,1
+230,Iran,Iran,1986,3,1
+231,Iran,Iran,1987,3,1
+232,Iran,Iran,1988,3,1
+233,Iran,Iran,1990,3,1
+234,Iran,Iran,1993,3,1
+235,Iran,Iran,1996,3,1
+236,Iran,Iran,2016,3,1
+237,Iran,Iran,2018,3,1
+238,Iran,Azerbaijan,1946,4,0
+239,United Kingdom,Israel,1946,1,0
+240,France,Laos,1946,1,0
+241,France,Laos,1947,1,0
+242,France,Laos,1948,1,0
+243,France,Laos,1949,1,0
+244,France,Laos,1950,1,1
+245,France,Laos,1951,1,1
+246,France,Laos,1952,1,1
+247,France,Laos,1953,1,1
+248,Philippines,Philippines,1946,3,1
+249,Philippines,Philippines,1947,3,1
+250,Philippines,Philippines,1948,3,1
+251,Philippines,Philippines,1949,3,1
+252,Philippines,Philippines,1950,3,1
+253,Philippines,Philippines,1951,3,1
+254,Philippines,Philippines,1952,3,1
+255,Philippines,Philippines,1953,3,1
+256,Philippines,Philippines,1954,3,1
+275,Philippines,Philippines,1987,3,1
+277,Philippines,Philippines,1989,3,1
+278,Philippines,Philippines,1990,3,1
+311,Russia,Liberia,1946,3,0
+312,Russia,Myanmar,1946,3,1
+313,Russia,Myanmar,1947,3,1
+314,Russia,Myanmar,1948,3,1
+315,Russia,Ukraine,1946,3,1
+316,Russia,Ukraine,1947,3,1
+317,Russia,Ukraine,1948,3,1
+318,Russia,Ukraine,1949,3,1
+319,Russia,Ukraine,1950,3,1
+320,France,Thailand,1946,2,0
+321,Albania,United Kingdom,1946,2,0
+322,France,Vietnam,1946,1,1
+323,France,Vietnam,1947,1,1
+324,France,Vietnam,1948,1,1
+325,France,Vietnam,1949,1,1
+326,France,Vietnam,1950,1,1
+327,France,Vietnam,1951,1,1
+328,France,Vietnam,1952,1,1
+329,France,Vietnam,1953,1,1
+330,France,Vietnam,1954,1,1
+331,China,China,1947,3,1
+332,India,Pakistan,1948,2,1
+333,India,Pakistan,1964,2,1
+334,India,Pakistan,1965,2,1
+335,India,Pakistan,1971,2,1
+336,India,Pakistan,1984,2,1
+337,India,Pakistan,1987,2,1
+338,India,Pakistan,1989,2,1
+339,India,Pakistan,1990,2,1
+340,India,Pakistan,1991,2,1
+341,India,Pakistan,1992,2,1
+342,India,Pakistan,1994,2,1
+343,India,Pakistan,1996,2,1
+344,India,Pakistan,1997,2,1
+345,India,Pakistan,1998,2,1
+346,India,Pakistan,1999,2,1
+347,India,Pakistan,2000,2,1
+348,India,Pakistan,2001,2,1
+349,India,Pakistan,2002,2,1
+350,India,Pakistan,2003,2,1
+351,India,Pakistan,2013,2,1
+352,India,Pakistan,2014,2,1
+353,India,Pakistan,2015,2,1
+354,India,Pakistan,2016,2,1
+355,India,Pakistan,2017,2,1
+356,India,Pakistan,2018,2,1
+357,India,Pakistan,2019,2,1
+358,India,Pakistan,2020,2,1
+360,Paraguay,Paraguay,1947,3,1
+361,Paraguay,Paraguay,1954,3,1
+362,Paraguay,Paraguay,1989,3,1
+363,Myanmar,Myanmar,1949,3,1
+364,Myanmar,Myanmar,1950,3,1
+365,Myanmar,Myanmar,1951,3,1
+366,Myanmar,Myanmar,1952,3,1
+367,Myanmar,Myanmar,1953,3,1
+368,Myanmar,Myanmar,1954,3,1
+369,Myanmar,Myanmar,1955,3,1
+370,Myanmar,Myanmar,1956,3,1
+371,Myanmar,Myanmar,1957,3,1
+372,Myanmar,Myanmar,1958,3,1
+373,Myanmar,Myanmar,1959,3,1
+374,Myanmar,Myanmar,1960,3,1
+375,Myanmar,Myanmar,1961,3,1
+376,Myanmar,Myanmar,1962,3,1
+377,Myanmar,Myanmar,1963,3,1
+378,Myanmar,Myanmar,1964,3,1
+379,Myanmar,Myanmar,1965,3,1
+380,Myanmar,Myanmar,1966,3,1
+381,Myanmar,Myanmar,1967,3,1
+382,Myanmar,Myanmar,1968,3,1
+383,Myanmar,Myanmar,1969,3,1
+384,Myanmar,Myanmar,1970,3,1
+385,Myanmar,Myanmar,1971,3,1
+386,Myanmar,Myanmar,1972,3,1
+387,Myanmar,Myanmar,1973,3,1
+388,Myanmar,Myanmar,1974,3,1
+389,Myanmar,Myanmar,1975,3,1
+390,Myanmar,Myanmar,1976,3,1
+391,Myanmar,Myanmar,1977,3,1
+392,Myanmar,Myanmar,1978,3,1
+393,Myanmar,Myanmar,1979,3,1
+394,Myanmar,Myanmar,1980,3,1
+395,Myanmar,Myanmar,1981,3,1
+396,Myanmar,Myanmar,1982,3,1
+397,Myanmar,Myanmar,1983,3,1
+398,Myanmar,Myanmar,1984,3,1
+399,Myanmar,Myanmar,1985,3,1
+400,Myanmar,Myanmar,1986,3,1
+401,Myanmar,Myanmar,1987,3,1
+402,Myanmar,Myanmar,1988,3,1
+403,Myanmar,Myanmar,1989,3,1
+404,Myanmar,Myanmar,1990,3,1
+405,Myanmar,Myanmar,1991,3,1
+406,Myanmar,Myanmar,1992,3,1
+407,Myanmar,Myanmar,1994,3,1
+408,Myanmar,Myanmar,1995,3,1
+409,Myanmar,Myanmar,1997,3,1
+410,Myanmar,Myanmar,1998,3,1
+411,Myanmar,Myanmar,2000,3,1
+412,Myanmar,Myanmar,2001,3,1
+413,Myanmar,Myanmar,2002,3,1
+414,Myanmar,Myanmar,2003,3,1
+415,Myanmar,Myanmar,2004,3,1
+416,Myanmar,Myanmar,2005,3,1
+417,Myanmar,Myanmar,2006,3,1
+418,Myanmar,Myanmar,2007,3,1
+419,Myanmar,Myanmar,2008,3,1
+420,Myanmar,Myanmar,2009,3,1
+421,Myanmar,Myanmar,2010,3,1
+422,Myanmar,Myanmar,2011,3,1
+423,Myanmar,Myanmar,2013,3,1
+424,Myanmar,Myanmar,2021,3,1
+425,Myanmar,Philippines,1948,3,1
+426,Myanmar,Philippines,1949,3,1
+427,Myanmar,Philippines,1950,3,1
+428,Myanmar,Philippines,1951,3,1
+429,Myanmar,Philippines,1952,3,1
+430,Myanmar,Philippines,1953,3,1
+431,Myanmar,Colombia,1954,3,1
+432,Myanmar,Colombia,1955,3,1
+433,Myanmar,Colombia,1956,3,1
+434,Myanmar,Colombia,1957,3,1
+435,Myanmar,Colombia,1958,3,1
+436,Myanmar,Colombia,1959,3,1
+437,Myanmar,Colombia,1960,3,1
+438,Myanmar,Colombia,1961,3,1
+439,Myanmar,Colombia,1962,3,1
+440,Myanmar,Colombia,1963,3,1
+441,Myanmar,Colombia,1964,3,1
+442,Myanmar,Colombia,1965,3,1
+443,Myanmar,Colombia,1966,3,1
+444,Myanmar,Colombia,1967,3,1
+445,Myanmar,Colombia,1968,3,1
+446,Myanmar,Colombia,1969,3,1
+447,Myanmar,Philippines,1970,3,1
+448,Myanmar,Colombia,1971,3,1
+449,Myanmar,Colombia,1972,3,1
+450,Myanmar,Colombia,1973,3,1
+451,Myanmar,Colombia,1974,3,1
+452,Myanmar,Colombia,1975,3,1
+453,Myanmar,Colombia,1976,3,1
+454,Myanmar,Colombia,1977,3,1
+455,Myanmar,Colombia,1978,3,1
+456,Myanmar,Colombia,1979,3,1
+457,Myanmar,Colombia,1980,3,1
+458,Myanmar,Colombia,1981,3,1
+459,Myanmar,Colombia,1982,3,1
+460,Myanmar,Colombia,1983,3,1
+461,Myanmar,Colombia,1984,3,1
+462,Myanmar,Colombia,1985,3,1
+463,Myanmar,Colombia,1986,3,1
+464,Myanmar,Colombia,1987,3,1
+465,Myanmar,Colombia,1988,3,1
+466,Myanmar,Myanmar,1990,3,1
+467,Myanmar,Myanmar,1991,3,1
+468,Myanmar,Myanmar,1992,3,1
+469,Myanmar,Myanmar,1994,3,1
+470,Myanmar,Philippines,2013,3,1
+471,Myanmar,Philippines,2014,3,1
+472,Myanmar,Philippines,2015,3,1
+473,Myanmar,Philippines,2017,3,1
+474,Myanmar,Philippines,2018,3,1
+475,Myanmar,Philippines,2019,3,1
+476,Myanmar,Myanmar,2021,3,1
+477,Myanmar,Sri Lanka,1948,3,0
+478,Myanmar,Sri Lanka,1949,3,0
+479,Myanmar,Sri Lanka,1950,3,0
+480,Myanmar,Sri Lanka,1951,3,0
+481,Myanmar,Sri Lanka,1952,3,0
+482,Myanmar,Sri Lanka,1953,3,0
+483,Myanmar,Sri Lanka,1954,3,0
+484,Myanmar,Sri Lanka,1955,3,0
+485,Myanmar,Sri Lanka,1956,3,0
+486,Myanmar,Sri Lanka,1957,3,0
+487,Myanmar,Bangladesh,1958,3,0
+488,Myanmar,Bangladesh,1959,3,0
+489,Myanmar,Bangladesh,1960,3,0
+490,Myanmar,Bangladesh,1961,3,0
+500,Myanmar,Rwanda,1973,3,1
+501,Myanmar,Rwanda,1974,3,1
+502,Myanmar,Rwanda,1975,3,1
+503,Myanmar,Rwanda,1976,3,1
+504,Myanmar,Afghanistan,1977,3,1
+505,Myanmar,Rwanda,1978,3,1
+506,Myanmar,Russia,1991,3,1
+507,Myanmar,Russia,1994,3,1
+508,Myanmar,Myanmar,2016,3,1
+509,Myanmar,Myanmar,2017,3,1
+510,Myanmar,Peru,2018,3,1
+511,Myanmar,Peru,2019,3,1
+512,Myanmar,Peru,2020,3,1
+513,Myanmar,Sri Lanka,1949,3,0
+514,Myanmar,Sri Lanka,1950,3,0
+515,Myanmar,Sri Lanka,1951,3,0
+516,Myanmar,Philippines,1952,3,0
+517,Myanmar,Philippines,1953,3,0
+518,Myanmar,Philippines,1954,3,0
+519,Myanmar,Philippines,1955,3,0
+520,Myanmar,Philippines,1956,3,0
+521,Myanmar,Philippines,1957,3,0
+522,Myanmar,Philippines,1958,3,0
+523,Myanmar,Myanmar,1959,3,0
+524,Myanmar,Myanmar,1960,3,0
+525,Myanmar,Myanmar,1961,3,0
+526,Myanmar,Myanmar,1962,3,0
+527,Myanmar,Myanmar,1963,3,0
+528,Myanmar,Myanmar,1990,3,0
+529,Myanmar,Thailand,1996,3,0
+530,Costa Rica,Colombia,1948,3,1
+532,India,India,1948,3,1
+533,India,India,1949,3,1
+534,India,India,1950,3,1
+535,India,India,1951,3,1
+536,India,India,1969,3,1
+537,India,India,1970,3,1
+538,India,India,1971,3,1
+539,India,India,1991,3,1
+540,India,India,1992,3,1
+541,India,India,1993,3,1
+542,India,India,1994,3,1
+543,India,India,1996,3,1
+544,India,India,1997,3,1
+545,India,India,1998,3,1
+546,India,India,1999,3,1
+547,India,India,2000,3,1
+548,India,India,2001,3,1
+549,India,India,2002,3,1
+550,India,India,2003,3,1
+551,India,India,2004,3,1
+552,India,India,2005,3,1
+553,India,India,2006,3,1
+554,India,India,2007,3,1
+555,India,India,2008,3,1
+556,India,India,2009,3,1
+557,India,India,2010,3,1
+558,India,India,2011,3,1
+559,India,India,2012,3,1
+560,India,India,2013,3,1
+561,India,India,2014,3,1
+562,India,India,2015,3,1
+563,India,India,2016,3,1
+564,India,India,2017,3,1
+565,India,India,2018,3,1
+566,India,India,2019,3,1
+567,India,India,2020,3,1
+568,India,India,2021,3,1
+571,United Kingdom,India,1948,1,0
+572,United Kingdom,India,1949,1,1
+573,United Kingdom,India,1950,1,1
+574,United Kingdom,India,1951,1,1
+575,United Kingdom,India,1952,1,1
+576,United Kingdom,India,1953,1,1
+577,United Kingdom,India,1954,1,1
+578,United Kingdom,India,1955,1,1
+579,United Kingdom,India,1956,1,1
+580,United Kingdom,India,1957,1,1
+591,Yemen,Philippines,1979,3,1
+592,Yemen,Philippines,1980,3,1
+593,Yemen,Philippines,1981,3,1
+594,Yemen,Philippines,1982,3,1
+595,Yemen,Yemen,2009,4,1
+596,Yemen,Yemen,2010,4,1
+597,Yemen,Yemen,2011,4,1
+598,Yemen,Yemen,2012,4,1
+599,Yemen,Yemen,2013,4,1
+600,Yemen,Yemen,2014,4,1
+601,Yemen,Yemen,2015,4,1
+602,Yemen,Yemen,2016,4,1
+603,Yemen,Yemen,2017,4,1
+604,Yemen,Yemen,2018,4,1
+605,Yemen,Yemen,2019,4,1
+606,Yemen,Yemen,2020,4,1
+607,Yemen,Yemen,2021,4,1
+608,Myanmar,Congo,1949,3,0
+609,Myanmar,Congo,1950,3,1
+610,Myanmar,Myanmar,1961,3,1
+611,Myanmar,Myanmar,1962,3,1
+612,Myanmar,Myanmar,1963,3,1
+613,Myanmar,Myanmar,1964,3,1
+614,Myanmar,Myanmar,1965,3,1
+615,Myanmar,Myanmar,1966,3,1
+616,Myanmar,Myanmar,1967,3,1
+617,Myanmar,Myanmar,1968,3,1
+618,Myanmar,Myanmar,1969,3,1
+619,Myanmar,Myanmar,1970,3,1
+620,Myanmar,Myanmar,1971,3,1
+621,Myanmar,Myanmar,1972,3,1
+622,Myanmar,Myanmar,1973,3,1
+623,Myanmar,Myanmar,1974,3,1
+624,Myanmar,Myanmar,1975,3,1
+625,Myanmar,Myanmar,1976,3,1
+626,Myanmar,Myanmar,1977,3,1
+627,Myanmar,Myanmar,1978,3,1
+628,Myanmar,Myanmar,1979,3,1
+629,Myanmar,Myanmar,1980,3,1
+630,Myanmar,Myanmar,1981,3,1
+631,Myanmar,Myanmar,1982,3,1
+632,Myanmar,Myanmar,1983,3,1
+633,Myanmar,Myanmar,1984,3,1
+634,Myanmar,Myanmar,1985,3,1
+635,Myanmar,Myanmar,1986,3,1
+636,Myanmar,Myanmar,1987,3,1
+637,Myanmar,Myanmar,1988,3,1
+638,Myanmar,Myanmar,1989,3,1
+639,Myanmar,Myanmar,1990,3,1
+640,Myanmar,Myanmar,1991,3,1
+641,Myanmar,Myanmar,1992,3,1
+642,Myanmar,Myanmar,2011,3,1
+643,Myanmar,Myanmar,2012,3,1
+644,Myanmar,Myanmar,2013,3,1
+645,Myanmar,Myanmar,2014,3,1
+646,Myanmar,Myanmar,2015,3,1
+647,Myanmar,Myanmar,2016,3,1
+648,Myanmar,Myanmar,2017,3,1
+649,Myanmar,Myanmar,2018,3,1
+650,Myanmar,Myanmar,2019,3,1
+651,Myanmar,Myanmar,2021,3,1
+652,China,China,1949,2,1
+653,China,China,1950,2,1
+654,China,China,1954,2,1
+655,China,China,1958,2,1
+656,Guatemala,Guatemala,1949,3,0
+657,Guatemala,Guatemala,1954,3,0
+658,Guatemala,Chad,1963,3,0
+659,Guatemala,Chad,1965,3,0
+660,Guatemala,Chad,1966,3,0
+661,Guatemala,Chad,1967,3,0
+662,Guatemala,Chad,1968,3,1
+663,Guatemala,Chad,1969,3,1
+664,Guatemala,Rwanda,1970,3,1
+665,Guatemala,Rwanda,1971,3,1
+666,Guatemala,Rwanda,1972,3,1
+667,Guatemala,Rwanda,1973,3,1
+668,Guatemala,Rwanda,1974,3,1
+669,Guatemala,Guatemala,1975,3,1
+670,Guatemala,Guatemala,1976,3,1
+671,Guatemala,Guatemala,1977,3,1
+672,Guatemala,Guatemala,1978,3,1
+673,Guatemala,Guatemala,1979,3,1
+674,Guatemala,Guatemala,1980,3,1
+675,Guatemala,Guatemala,1981,3,1
+676,Guatemala,Guatemala,1982,3,1
+677,Guatemala,Guatemala,1983,3,1
+678,Guatemala,Guatemala,1984,3,1
+679,Guatemala,Guatemala,1985,3,1
+680,Guatemala,Guatemala,1986,3,1
+681,Guatemala,Guatemala,1987,3,1
+682,Guatemala,Guatemala,1988,3,1
+683,Guatemala,Guatemala,1989,3,1
+684,Guatemala,Guatemala,1990,3,1
+685,Guatemala,Guatemala,1991,3,1
+686,Guatemala,Guatemala,1992,3,1
+687,Guatemala,Guatemala,1993,3,1
+688,Guatemala,Guatemala,1994,3,1
+689,Guatemala,Guatemala,1995,3,1
+706,Israel,Palestinian Territories,1965,3,1
+707,Israel,Palestinian Territories,1966,3,1
+708,Israel,Palestinian Territories,1967,3,1
+709,Israel,Palestinian Territories,1968,3,1
+710,Israel,Palestinian Territories,1969,3,1
+711,Israel,Palestinian Territories,1970,3,1
+712,Israel,Palestinian Territories,1971,3,1
+713,Israel,Palestinian Territories,1972,3,1
+714,Israel,Palestinian Territories,1973,3,1
+731,Israel,Palestinian Territories,1990,3,1
+732,Israel,Palestinian Territories,1991,3,1
+733,Israel,Palestinian Territories,1992,3,1
+734,Israel,Palestinian Territories,1993,3,1
+735,Israel,Palestinian Territories,1994,3,1
+738,Israel,Palestinian Territories,2000,3,1
+740,Israel,Palestinian Territories,2002,3,1
+741,Israel,Palestinian Territories,2003,3,1
+742,Israel,Palestinian Territories,2004,3,1
+743,Israel,Palestinian Territories,2005,3,1
+744,Israel,Palestinian Territories,2006,3,1
+745,Israel,Palestinian Territories,2007,3,1
+746,Israel,Palestinian Territories,2008,3,1
+747,Israel,Palestinian Territories,2009,3,1
+749,Israel,Palestinian Territories,2011,3,1
+750,Israel,Palestinian Territories,2012,3,1
+751,Israel,Palestinian Territories,2014,3,1
+752,Israel,Palestinian Territories,2018,3,1
+754,Israel,Palestinian Territories,2021,3,1
+760,China,China,1950,3,0
+761,China,China,1956,3,1
+762,China,China,1959,3,1
+763,Indonesia,Indonesia,1950,3,1
+764,United States,United States,1950,1,0
+765,Egypt,United Kingdom,1951,2,0
+766,Egypt,United Kingdom,1952,2,0
+768,Thailand,Philippines,1974,3,1
+769,Thailand,Philippines,1975,3,1
+770,Thailand,Philippines,1976,3,1
+771,Thailand,Philippines,1977,3,1
+772,Thailand,Philippines,1978,3,1
+773,Thailand,Philippines,1979,3,1
+774,Thailand,Philippines,1980,3,1
+775,Thailand,Philippines,1981,3,1
+776,Thailand,Philippines,1982,3,1
+777,United Kingdom,Kenya,1952,1,0
+778,United Kingdom,Kenya,1953,1,1
+779,United Kingdom,Kenya,1954,1,1
+780,United Kingdom,Kenya,1955,1,1
+781,United Kingdom,Kenya,1956,1,1
+787,Indonesia,Indonesia,1953,3,1
+788,Indonesia,Indonesia,1958,3,1
+789,Indonesia,Indonesia,1959,3,1
+790,Indonesia,Indonesia,1960,3,1
+791,Indonesia,Indonesia,1961,3,1
+792,France,Morocco,1953,1,0
+793,France,Morocco,1954,1,0
+794,France,Morocco,1955,1,0
+795,France,Morocco,1956,1,0
+796,France,Colombia,1953,1,0
+797,France,Colombia,1954,1,0
+798,France,Colombia,1955,1,0
+799,France,Colombia,1956,1,0
+800,France,Algeria,1954,1,0
+804,France,Algeria,1958,1,1
+805,France,Algeria,1959,1,1
+806,France,Algeria,1960,1,1
+807,France,Algeria,1961,1,1
+808,France,Algeria,1962,1,1
+809,Argentina,Uruguay,1955,3,0
+810,Argentina,Paraguay,1963,3,0
+811,Argentina,Guatemala,1974,3,0
+812,Argentina,Argentina,1975,3,0
+813,Argentina,Argentina,1976,3,1
+814,Argentina,Argentina,1977,3,1
+815,United Kingdom,Cyprus,1955,1,0
+816,United Kingdom,Cyprus,1956,1,0
+817,United Kingdom,Cyprus,1957,1,0
+818,United Kingdom,Cyprus,1958,1,0
+819,United Kingdom,Cyprus,1959,1,0
+830,Hungary,Russia,1956,2,1
+831,India,Nigeria,1956,3,0
+832,India,Nigeria,1957,3,0
+833,India,Nigeria,1958,3,1
+834,India,Nigeria,1959,3,1
+835,India,Nigeria,1961,3,1
+836,India,Nigeria,1962,3,1
+837,India,Nigeria,1963,3,1
+838,India,Nigeria,1964,3,1
+839,India,Nigeria,1965,3,1
+840,India,Nigeria,1966,3,1
+841,India,Nigeria,1967,3,1
+842,India,Nigeria,1968,3,1
+843,India,India,1992,3,1
+844,India,India,1993,3,1
+845,India,India,1994,3,1
+846,India,India,1995,3,1
+847,India,India,1996,3,1
+848,India,India,1997,3,1
+849,India,India,2000,3,1
+851,Myanmar,Myanmar,1957,3,0
+852,Myanmar,Myanmar,1987,3,0
+853,Myanmar,Myanmar,1992,3,0
+854,Myanmar,Myanmar,1996,3,0
+855,Myanmar,Myanmar,2005,3,0
+856,Myanmar,Myanmar,2021,3,0
+860,Honduras,Nicaragua,1957,2,0
+866,Iraq,Egypt,1958,3,0
+867,Iraq,Yemen,1959,3,0
+869,Iraq,Iraq,1982,3,1
+870,Iraq,Iraq,1983,3,1
+871,Iraq,Iraq,1984,3,1
+872,Iraq,Iraq,1987,3,1
+873,Iraq,Iraq,1991,3,1
+874,Iraq,Iraq,1992,3,1
+875,Iraq,Iraq,1993,3,1
+876,Iraq,Iraq,1994,3,1
+877,Iraq,Iraq,1995,3,1
+878,Iraq,Iraq,1996,3,1
+879,Iraq,Iraq,2004,4,1
+880,Iraq,Iraq,2005,4,1
+881,Iraq,Iraq,2006,4,1
+882,Iraq,Iraq,2007,4,1
+883,Iraq,Iraq,2008,4,1
+884,Iraq,Iraq,2009,4,1
+885,Iraq,Iraq,2010,4,1
+886,Iraq,Iraq,2011,4,1
+887,Iraq,Iraq,2012,3,1
+888,Iraq,Iraq,2013,3,1
+889,Iraq,Iraq,2014,4,1
+890,Iraq,Iraq,2015,4,1
+891,Iraq,Iraq,2016,4,1
+892,Iraq,Iraq,2017,4,1
+893,Iraq,Iraq,2018,4,1
+894,Iraq,Iraq,2019,4,1
+895,Iraq,Iraq,2020,4,1
+896,Iraq,Iraq,2021,4,1
+897,Lebanon,Yemen,1958,3,1
+898,Lebanon,Nepal,1975,3,1
+899,Lebanon,Lebanon,1976,3,1
+900,Lebanon,Nepal,1982,3,1
+901,Lebanon,Lebanon,1983,4,1
+902,Lebanon,Lebanon,1984,4,1
+903,Lebanon,Nigeria,1985,3,1
+904,Lebanon,Lebanon,1986,3,1
+905,Lebanon,Lebanon,1989,4,1
+906,Lebanon,Lebanon,1990,4,1
+907,Malaysia,India,1958,4,0
+908,Malaysia,India,1959,4,0
+909,Malaysia,India,1960,4,0
+910,Malaysia,India,1974,3,0
+911,Malaysia,India,1975,3,0
+912,Malaysia,India,1981,3,0
+913,Laos,Laos,1959,3,1
+914,Laos,Laos,1960,4,1
+915,Laos,Laos,1961,4,1
+916,Laos,Laos,1963,4,1
+917,Laos,Laos,1964,4,1
+918,Laos,Laos,1965,4,1
+919,Laos,Laos,1966,4,1
+920,Laos,Laos,1967,4,1
+921,Laos,Laos,1968,4,1
+922,Laos,Laos,1969,4,1
+923,Laos,Laos,1970,4,1
+924,Laos,Laos,1971,4,1
+925,Laos,Laos,1972,4,1
+926,Laos,Laos,1973,4,1
+927,Laos,Myanmar,1989,3,1
+928,Laos,Myanmar,1990,3,1
+944,Myanmar,Sri Lanka,1960,3,0
+945,Myanmar,Sri Lanka,1961,3,0
+948,Myanmar,Myanmar,1964,3,1
+949,Myanmar,Myanmar,1965,3,1
+950,Myanmar,Myanmar,1966,3,1
+951,Myanmar,Myanmar,1967,3,1
+952,Myanmar,Myanmar,1968,3,1
+955,Myanmar,Myanmar,1972,3,1
+956,Myanmar,Myanmar,1973,3,1
+958,Myanmar,Russia,1977,3,1
+959,Myanmar,Russia,1978,3,1
+960,Myanmar,Russia,1979,3,1
+961,Myanmar,Russia,1980,3,1
+962,Myanmar,Russia,1981,3,1
+963,Myanmar,Russia,1982,3,1
+964,Myanmar,Russia,1983,3,1
+965,Myanmar,Chad,1984,3,1
+966,Myanmar,Turkey,1985,3,1
+967,Myanmar,Turkey,1986,3,1
+968,Myanmar,Turkey,1987,3,1
+969,Myanmar,Turkey,1988,3,1
+970,Myanmar,Turkey,1993,3,1
+971,Myanmar,Turkey,1994,3,1
+972,Myanmar,Turkey,1995,3,1
+973,Myanmar,Myanmar,1996,3,1
+974,Myanmar,Myanmar,1997,3,1
+975,Myanmar,Myanmar,1998,3,1
+976,Myanmar,Myanmar,1999,3,1
+977,Myanmar,Myanmar,2000,3,1
+978,Myanmar,Myanmar,2001,3,1
+979,Myanmar,Myanmar,2002,3,1
+980,Myanmar,Myanmar,2005,3,1
+981,Myanmar,Myanmar,2006,3,1
+982,Myanmar,Myanmar,2007,3,1
+983,Myanmar,Myanmar,2008,3,1
+984,Myanmar,Myanmar,2009,3,1
+985,Myanmar,Myanmar,2010,3,1
+986,Myanmar,Myanmar,2011,3,1
+987,Myanmar,Myanmar,2013,3,1
+988,Myanmar,Myanmar,2015,3,1
+997,Ethiopia,Ethiopia,1960,3,0
+998,Ethiopia,Ethiopia,1976,3,1
+999,Ethiopia,Ethiopia,1977,3,1
+1000,Ethiopia,Ethiopia,1978,3,1
+1001,Ethiopia,Ethiopia,1979,3,1
+1002,Ethiopia,Ethiopia,1980,3,1
+1003,Ethiopia,Ethiopia,1981,3,1
+1004,Ethiopia,Ethiopia,1982,3,1
+1005,Ethiopia,Ethiopia,1983,3,1
+1006,Ethiopia,Ethiopia,1984,3,1
+1007,Ethiopia,Ethiopia,1985,3,1
+1008,Ethiopia,Ethiopia,1986,3,1
+1009,Ethiopia,Ethiopia,1987,3,1
+1010,Ethiopia,Ethiopia,1988,3,1
+1011,Ethiopia,Ethiopia,1989,3,1
+1012,Ethiopia,Ethiopia,1990,3,1
+1013,Ethiopia,Ethiopia,1991,3,1
+1014,Ethiopia,Ethiopia,2020,4,1
+1015,Ethiopia,Ethiopia,2021,4,1
+1020,Nepal,Nepal,1960,3,0
+1021,Nepal,Nepal,1961,3,0
+1022,Nepal,Nepal,1962,3,0
+1023,Nepal,Nepal,1996,3,0
+1024,Nepal,Nepal,1997,3,0
+1025,Nepal,Nepal,1998,3,0
+1026,Nepal,Nepal,1999,3,0
+1027,Nepal,Nepal,2000,3,0
+1028,Nepal,Nepal,2001,3,1
+1029,Nepal,Nepal,2002,3,1
+1030,Nepal,Nepal,2003,3,1
+1031,Nepal,Nepal,2004,3,1
+1032,Nepal,Nepal,2005,3,1
+1033,Nepal,Nepal,2006,3,1
+1034,France,Algeria,1961,3,1
+1035,France,Algeria,1962,3,1
+1036,Iraq,Iraq,1961,3,1
+1037,Iraq,Iraq,1962,3,1
+1038,Iraq,Iraq,1963,3,1
+1039,Iraq,Iraq,1964,3,1
+1040,Iraq,Iraq,1965,3,1
+1041,Iraq,Iraq,1966,3,1
+1042,Iraq,Iraq,1967,3,1
+1043,Iraq,Iraq,1968,3,1
+1044,Iraq,Iraq,1969,3,1
+1045,Iraq,Iraq,1970,3,1
+1046,Iraq,Iraq,1973,3,1
+1047,Iraq,Iraq,1974,3,1
+1048,Iraq,Iraq,1975,3,1
+1049,Iraq,Iraq,1976,3,1
+1050,Iraq,Iraq,1977,3,1
+1051,Iraq,Iraq,1978,3,1
+1052,Iraq,Iraq,1979,3,1
+1053,Iraq,Iraq,1980,3,1
+1054,Iraq,Iraq,1981,3,1
+1055,Iraq,Iraq,1982,3,1
+1056,Iraq,Iraq,1983,3,1
+1057,Iraq,Iraq,1984,3,1
+1058,Iraq,Iraq,1985,3,1
+1059,Iraq,Iraq,1986,3,1
+1060,Iraq,Iraq,1987,3,1
+1061,Iraq,Iraq,1988,3,1
+1062,Iraq,Iraq,1989,3,1
+1063,Iraq,Iraq,1990,3,1
+1064,Iraq,Iraq,1991,3,1
+1065,Iraq,Iraq,1992,3,1
+1066,Iraq,Iraq,1995,3,1
+1067,Iraq,Iraq,1996,3,1
+1068,France,Tunisia,1961,2,1
+1069,United Kingdom,Indonesia,1962,1,0
+1070,China,India,1962,2,1
+1071,China,India,1967,2,1
+1072,China,India,2020,2,1
+1101,Indonesia,Netherlands,1962,2,0
+1103,Venezuela,Venezuela,1982,3,0
+1104,Venezuela,Venezuela,1992,3,0
+1105,Algeria,Morocco,1963,2,0
+1106,Portugal,Guinea,1963,1,0
+1107,Portugal,Guinea,1964,1,0
+1108,Portugal,Guinea,1965,1,1
+1109,Portugal,Guinea,1966,1,1
+1110,Portugal,Guinea,1967,1,1
+1111,Portugal,Guinea,1968,1,1
+1112,Portugal,Guinea,1969,1,1
+1113,Portugal,Guinea,1970,1,1
+1114,Portugal,Guinea,1971,1,1
+1115,Portugal,Guinea,1972,1,1
+1116,Portugal,Guinea,1973,1,1
+1117,Malaysia,Colombia,1963,3,0
+1118,Malaysia,Colombia,1964,3,0
+1119,Malaysia,Colombia,1965,4,0
+1120,Malaysia,Colombia,1966,4,0
+1121,Indonesia,Malaysia,1963,2,0
+1122,Indonesia,Malaysia,1964,2,0
+1123,Indonesia,Malaysia,1965,2,0
+1124,Indonesia,Malaysia,1966,2,0
+1160,Gabon,Gabon,1964,4,0
+1161,Portugal,Mozambique,1964,1,0
+1162,Portugal,Mozambique,1965,1,0
+1163,Portugal,Mozambique,1966,1,1
+1164,Portugal,Mozambique,1967,1,1
+1165,Portugal,Mozambique,1968,1,1
+1166,Portugal,Mozambique,1969,1,1
+1167,Portugal,Mozambique,1970,1,1
+1168,Portugal,Mozambique,1971,1,1
+1169,Portugal,Mozambique,1972,1,1
+1170,Portugal,Mozambique,1973,1,1
+1171,Portugal,Mozambique,1974,1,1
+1172,United Kingdom,Yemen,1964,1,0
+1173,United Kingdom,Yemen,1965,1,0
+1174,United Kingdom,Yemen,1966,1,0
+1175,United Kingdom,Yemen,1967,1,0
+1198,Chad,Chad,1966,3,0
+1199,Chad,Chad,1967,3,0
+1200,Chad,Chad,1968,3,0
+1201,Chad,Chad,1969,4,1
+1202,Chad,Chad,1970,4,1
+1203,Chad,Myanmar,1971,4,1
+1204,Chad,Nepal,1972,4,1
+1205,Chad,Argentina,1976,3,1
+1206,Chad,Paraguay,1977,3,1
+1207,Chad,Peru,1978,4,1
+1208,Chad,Paraguay,1979,3,1
+1209,Chad,Argentina,1980,4,1
+1210,Chad,Argentina,1981,4,1
+1212,Chad,Chad,1983,4,1
+1213,Chad,Chad,1984,4,1
+1214,Chad,Chad,1986,4,1
+1216,Chad,Libya,1989,3,1
+1217,Chad,Libya,1990,3,1
+1218,Chad,Chad,1991,3,1
+1221,Chad,Chad,1994,3,1
+1223,Chad,Colombia,1998,3,1
+1224,Chad,Chad,1999,3,1
+1225,Chad,Chad,2000,3,1
+1226,Chad,Chad,2001,3,1
+1227,Chad,Chad,2002,3,1
+1228,Chad,Chad,2003,3,1
+1229,Chad,Colombia,2005,3,1
+1230,Chad,Chad,2006,3,1
+1231,Chad,Chad,2007,3,1
+1234,Chad,Nicaragua,2010,3,1
+1235,Chad,Chad,2018,3,1
+1236,Chad,Chad,2020,3,1
+1237,Chad,Chad,2021,3,1
+1238,Colombia,Colombia,1964,3,0
+1239,Colombia,Colombia,1965,3,0
+1240,Colombia,Colombia,1966,3,0
+1241,Colombia,Colombia,1967,3,0
+1242,Colombia,Colombia,1968,3,0
+1243,Colombia,Colombia,1969,3,0
+1244,Colombia,Colombia,1970,3,0
+1245,Colombia,Colombia,1971,3,0
+1246,Colombia,Colombia,1972,3,0
+1247,Colombia,Colombia,1973,3,0
+1248,Colombia,Colombia,1974,3,0
+1249,Colombia,Colombia,1975,3,0
+1250,Colombia,Colombia,1976,3,0
+1251,Colombia,Colombia,1977,3,0
+1252,Colombia,Colombia,1978,3,0
+1253,Colombia,Colombia,1979,3,1
+1254,Colombia,Colombia,1980,3,1
+1255,Colombia,Colombia,1981,3,1
+1256,Colombia,Colombia,1982,3,1
+1257,Colombia,Colombia,1983,3,1
+1258,Colombia,Colombia,1984,3,1
+1259,Colombia,Colombia,1985,3,1
+1260,Colombia,Colombia,1986,3,1
+1261,Colombia,Colombia,1987,3,1
+1262,Colombia,Colombia,1988,3,1
+1263,Colombia,Colombia,1989,3,1
+1264,Colombia,Colombia,1990,3,1
+1265,Colombia,Colombia,1991,3,1
+1266,Colombia,Colombia,1992,3,1
+1267,Colombia,Colombia,1993,3,1
+1268,Colombia,Colombia,1994,3,1
+1269,Colombia,Colombia,1995,3,1
+1270,Colombia,Colombia,1996,3,1
+1271,Colombia,Colombia,1997,3,1
+1272,Colombia,Colombia,1998,3,1
+1273,Colombia,Colombia,1999,3,1
+1274,Colombia,Colombia,2000,3,1
+1275,Colombia,Colombia,2001,3,1
+1276,Colombia,Colombia,2002,3,1
+1277,Colombia,Colombia,2003,3,1
+1278,Colombia,Colombia,2004,3,1
+1279,Colombia,Colombia,2005,3,1
+1280,Colombia,Colombia,2006,3,1
+1281,Colombia,Colombia,2007,3,1
+1282,Colombia,Colombia,2008,3,1
+1283,Colombia,Colombia,2009,3,1
+1284,Colombia,Colombia,2010,3,1
+1285,Colombia,Colombia,2011,3,1
+1286,Colombia,Colombia,2012,3,1
+1287,Colombia,Colombia,2013,3,1
+1288,Colombia,Colombia,2014,3,1
+1289,Colombia,Colombia,2015,3,1
+1290,Colombia,Colombia,2016,3,1
+1291,Colombia,Colombia,2018,3,1
+1292,Colombia,Colombia,2019,3,1
+1293,Colombia,Colombia,2020,3,1
+1294,Colombia,Colombia,2021,3,1
+1295,Dominican Republic,Congo,1965,3,0
+1296,Indonesia,Indonesia,1965,3,0
+1297,Indonesia,Indonesia,1967,3,0
+1298,Indonesia,Indonesia,1968,3,0
+1299,Indonesia,Indonesia,1969,3,0
+1300,Indonesia,Indonesia,1976,3,1
+1301,Indonesia,Indonesia,1977,3,1
+1302,Indonesia,Indonesia,1978,3,1
+1303,Indonesia,Indonesia,1981,3,1
+1304,Indonesia,Indonesia,1984,3,1
+1305,Indonesia,Indonesia,2018,3,1
+1306,Indonesia,Indonesia,2021,3,1
+1307,Peru,Colombia,1965,3,0
+1308,Peru,Peru,1982,3,0
+1309,Peru,Peru,1983,3,1
+1310,Peru,Peru,1984,3,1
+1311,Peru,Peru,1985,3,1
+1312,Peru,Peru,1986,3,1
+1313,Peru,Peru,1987,3,1
+1314,Peru,Peru,1988,3,1
+1315,Peru,Peru,1989,3,1
+1316,Peru,Peru,1990,3,1
+1317,Peru,Peru,1991,3,1
+1318,Peru,Peru,1992,3,1
+1319,Peru,Peru,1993,3,1
+1320,Peru,Peru,1994,3,1
+1321,Peru,Peru,1995,3,1
+1322,Peru,Peru,1996,3,1
+1323,Peru,Peru,1997,3,1
+1324,Peru,Peru,1998,3,1
+1325,Peru,Peru,1999,3,1
+1326,Peru,Peru,2007,3,1
+1327,Peru,Peru,2008,3,1
+1328,Peru,Peru,2009,3,1
+1329,Peru,Peru,2010,3,1
+1330,Vietnam,Vietnam,1965,2,1
+1331,Vietnam,Vietnam,1966,2,1
+1332,Vietnam,Vietnam,1967,2,1
+1333,Vietnam,Vietnam,1968,2,1
+1334,Vietnam,Vietnam,1969,2,1
+1335,Vietnam,Vietnam,1970,2,1
+1336,Vietnam,Vietnam,1971,2,1
+1337,Vietnam,Vietnam,1972,2,1
+1338,Vietnam,Vietnam,1973,2,1
+1339,Vietnam,Vietnam,1974,2,1
+1340,Vietnam,Vietnam,1975,2,1
+1341,Cambodia,Thailand,1977,2,0
+1342,Cambodia,Thailand,1978,2,0
+1343,Cambodia,Thailand,2011,2,0
+1344,Ghana,Nigeria,1966,3,0
+1345,Ghana,Ghana,1981,3,0
+1346,Ghana,Ghana,1983,3,0
+1347,India,Iraq,1966,3,0
+1348,India,Iraq,1967,3,0
+1349,India,Iraq,1968,3,0
+1350,Nigeria,Nigeria,1966,3,0
+1351,Nigeria,Nigeria,2009,3,0
+1352,Nigeria,Nigeria,2011,3,0
+1353,Nigeria,Nigeria,2012,4,1
+1354,Nigeria,Nigeria,2013,4,1
+1355,Nigeria,Nigeria,2014,4,1
+1356,Nigeria,Nigeria,2015,4,1
+1357,Nigeria,Nigeria,2016,4,1
+1358,Nigeria,Nigeria,2017,4,1
+1359,Nigeria,Nigeria,2018,4,1
+1360,Nigeria,Nigeria,2019,3,1
+1361,Nigeria,Nigeria,2020,4,1
+1362,Nigeria,Nigeria,2021,4,1
+1363,South Africa,Namibia,1966,3,0
+1364,South Africa,Namibia,1967,3,0
+1365,South Africa,Namibia,1968,3,0
+1366,South Africa,Namibia,1969,3,0
+1367,South Africa,Namibia,1970,3,0
+1368,South Africa,Namibia,1971,3,0
+1369,South Africa,Namibia,1972,3,0
+1370,South Africa,Namibia,1973,3,0
+1371,South Africa,Namibia,1974,3,0
+1372,South Africa,Namibia,1975,3,0
+1373,South Africa,Namibia,1976,3,0
+1374,South Africa,Namibia,1977,3,0
+1375,South Africa,Namibia,1978,3,1
+1376,South Africa,Namibia,1979,3,1
+1377,South Africa,Namibia,1980,3,1
+1378,South Africa,Namibia,1981,3,1
+1379,South Africa,Namibia,1982,3,1
+1380,South Africa,Namibia,1983,3,1
+1381,South Africa,Namibia,1984,3,1
+1382,South Africa,Namibia,1985,3,1
+1383,South Africa,Namibia,1986,3,1
+1384,South Africa,Namibia,1987,3,1
+1385,South Africa,Namibia,1988,3,1
+1402,Cambodia,Cambodia,1967,3,1
+1403,Cambodia,Cambodia,1968,3,1
+1404,Cambodia,Cambodia,1969,3,1
+1405,Cambodia,Cambodia,1970,4,1
+1406,Cambodia,Cambodia,1971,4,1
+1407,Cambodia,Cambodia,1972,4,1
+1408,Cambodia,Cambodia,1973,4,1
+1409,Cambodia,Cambodia,1974,4,1
+1410,Cambodia,Cambodia,1975,4,1
+1411,Cambodia,Myanmar,1978,4,1
+1412,Cambodia,Cambodia,1979,4,1
+1413,Cambodia,Cambodia,1980,4,1
+1414,Cambodia,Cambodia,1981,4,1
+1415,Cambodia,Cambodia,1982,4,1
+1416,Cambodia,Cambodia,1983,4,1
+1417,Cambodia,Cambodia,1984,4,1
+1418,Cambodia,Cambodia,1985,4,1
+1419,Cambodia,Cambodia,1986,4,1
+1420,Cambodia,Cambodia,1987,4,1
+1421,Cambodia,Cambodia,1988,4,1
+1422,Cambodia,Cambodia,1989,4,1
+1423,Cambodia,Cambodia,1990,3,1
+1424,Cambodia,Cambodia,1991,3,1
+1425,Cambodia,Cambodia,1992,3,1
+1426,Cambodia,Cambodia,1993,3,1
+1427,Cambodia,Cambodia,1994,3,1
+1428,Cambodia,Cambodia,1995,3,1
+1429,Cambodia,Cambodia,1996,3,1
+1430,Cambodia,Cambodia,1997,3,1
+1431,Cambodia,Cambodia,1998,3,1
+1432,Israel,Jordan,1967,2,1
+1435,Nigeria,Nigeria,1967,3,1
+1436,Nigeria,Nigeria,1968,3,1
+1437,Nigeria,Nigeria,1969,3,1
+1438,Nigeria,Nigeria,1970,3,1
+1439,Nigeria,Nigeria,2021,3,1
+1440,China,Myanmar,1969,2,0
+1441,China,Russia,1969,2,0
+1442,El Salvador,Honduras,1969,2,1
+1443,Guinea,Guinea,2000,3,0
+1444,Guinea,Guinea,2001,3,0
+1445,Philippines,India,1970,3,0
+1446,Philippines,India,1971,3,0
+1447,Philippines,Philippines,1972,3,1
+1448,Philippines,Philippines,1973,3,1
+1449,Philippines,Philippines,1974,3,1
+1450,Philippines,Philippines,1975,3,1
+1451,Philippines,Philippines,1976,3,1
+1452,Philippines,Philippines,1977,3,1
+1453,Philippines,Philippines,1978,3,1
+1454,Philippines,Philippines,1979,3,1
+1455,Philippines,Philippines,1980,3,1
+1456,Philippines,Philippines,1981,3,1
+1457,Philippines,Philippines,1982,3,1
+1458,Philippines,Philippines,1983,3,1
+1459,Philippines,Philippines,1984,3,1
+1460,Philippines,Philippines,1985,3,1
+1461,Philippines,Philippines,1986,3,1
+1462,Philippines,Philippines,1987,3,1
+1463,Philippines,Philippines,1988,3,1
+1464,Philippines,Philippines,1989,3,1
+1465,Philippines,Philippines,1990,3,1
+1466,Philippines,Philippines,1993,3,1
+1467,Philippines,Philippines,1994,3,1
+1468,Philippines,Philippines,1995,3,1
+1469,Philippines,Philippines,1996,3,1
+1470,Philippines,Philippines,1997,3,1
+1471,Philippines,Philippines,1998,3,1
+1472,Philippines,Philippines,1999,3,1
+1473,Philippines,Philippines,2000,3,1
+1474,Philippines,Philippines,2001,3,1
+1475,Philippines,Philippines,2002,3,1
+1476,Philippines,Philippines,2003,3,1
+1477,Philippines,Philippines,2004,3,1
+1478,Philippines,Philippines,2005,3,1
+1479,Philippines,Philippines,2006,3,1
+1480,Philippines,Philippines,2007,3,1
+1481,Philippines,Philippines,2008,3,1
+1482,Philippines,Philippines,2009,3,1
+1483,Philippines,Philippines,2010,3,1
+1484,Philippines,Philippines,2011,3,1
+1485,Philippines,Philippines,2012,3,1
+1486,Philippines,Philippines,2013,3,1
+1487,Philippines,Philippines,2014,3,1
+1488,Philippines,Philippines,2015,3,1
+1489,Philippines,Philippines,2016,3,1
+1490,Philippines,Philippines,2017,4,1
+1491,Philippines,Philippines,2018,3,1
+1492,Philippines,Philippines,2019,3,1
+1493,Philippines,Philippines,2020,3,1
+1534,Madagascar,Comoros,1971,3,0
+1535,Morocco,Egypt,1971,3,0
+1536,Pakistan,Bangladesh,1971,3,1
+1537,Sri Lanka,Sri Lanka,1971,3,1
+1538,Sri Lanka,Sri Lanka,1989,3,1
+1539,Sri Lanka,Sri Lanka,1990,3,1
+1540,Uganda,Uganda,1971,3,0
+1541,Uganda,Tanzania,1972,3,0
+1543,Uganda,Uganda,1979,4,1
+1545,Uganda,Uganda,1981,4,1
+1546,Uganda,Uganda,1982,3,1
+1547,Uganda,Uganda,1983,3,1
+1548,Uganda,Nepal,1984,3,1
+1549,Uganda,Nepal,1985,3,1
+1552,Uganda,Uganda,1988,3,1
+1553,Uganda,Uganda,1989,3,1
+1554,Uganda,Uganda,1990,3,1
+1555,Uganda,Uganda,1991,3,1
+1556,Uganda,Ukraine,1992,3,1
+1557,Uganda,Uganda,1994,3,1
+1558,Uganda,Uganda,1995,3,1
+1559,Uganda,Congo,1996,3,1
+1560,Uganda,Congo,1997,3,1
+1561,Uganda,Uganda,1998,3,1
+1562,Uganda,Congo,1999,3,1
+1563,Uganda,Uganda,2000,3,1
+1564,Uganda,Uganda,2001,3,1
+1565,Uganda,Uganda,2002,3,1
+1566,Uganda,Uganda,2003,3,1
+1567,Uganda,Uganda,2004,3,1
+1568,Uganda,Uganda,2005,4,1
+1569,Uganda,Uganda,2006,3,1
+1570,Uganda,Congo,2007,3,1
+1571,Uganda,Uganda,2008,4,1
+1572,Uganda,Uganda,2009,4,1
+1573,Uganda,Uganda,2010,4,1
+1574,Uganda,Uganda,2011,4,1
+1575,Uganda,Uganda,2013,4,1
+1576,Uganda,Uganda,2014,4,1
+1577,Uganda,Congo,2015,4,1
+1578,Uganda,Congo,2016,4,1
+1579,Uganda,Congo,2017,4,1
+1580,Uganda,Congo,2018,4,1
+1581,Uganda,Congo,2019,4,1
+1582,United Kingdom,Ireland,1971,3,0
+1583,United Kingdom,Ireland,1972,3,0
+1584,United Kingdom,Ireland,1973,3,0
+1585,United Kingdom,Ireland,1974,3,0
+1586,United Kingdom,Ireland,1975,3,0
+1587,United Kingdom,Ireland,1976,3,0
+1588,United Kingdom,Ireland,1977,3,0
+1589,United Kingdom,Ireland,1978,3,1
+1590,United Kingdom,Ireland,1979,3,1
+1591,United Kingdom,Ireland,1980,3,1
+1592,United Kingdom,Ireland,1981,3,1
+1593,United Kingdom,Ireland,1982,3,1
+1594,United Kingdom,Ireland,1983,3,1
+1595,United Kingdom,Ireland,1984,3,1
+1596,United Kingdom,Ireland,1985,3,1
+1597,United Kingdom,Ireland,1986,3,1
+1598,United Kingdom,Ireland,1987,3,1
+1599,United Kingdom,Ireland,1988,3,1
+1600,United Kingdom,Ireland,1989,3,1
+1601,United Kingdom,Ireland,1990,3,1
+1602,United Kingdom,Ireland,1991,3,1
+1603,United Kingdom,United Kingdom,1998,3,1
+1604,El Salvador,Honduras,1972,3,0
+1605,El Salvador,El Salvador,1979,3,0
+1606,El Salvador,El Salvador,1980,3,0
+1607,El Salvador,El Salvador,1981,3,1
+1608,El Salvador,El Salvador,1982,3,1
+1609,El Salvador,El Salvador,1983,3,1
+1610,El Salvador,El Salvador,1984,3,1
+1611,El Salvador,El Salvador,1985,3,1
+1612,El Salvador,El Salvador,1986,3,1
+1613,El Salvador,El Salvador,1987,3,1
+1614,El Salvador,El Salvador,1988,3,1
+1615,El Salvador,El Salvador,1989,3,1
+1616,El Salvador,El Salvador,1990,3,1
+1617,El Salvador,El Salvador,1991,3,1
+1625,Zimbabwe,Zimbabwe,1967,3,0
+1626,Zimbabwe,Zimbabwe,1968,3,0
+1627,Zimbabwe,Zimbabwe,1973,3,0
+1628,Zimbabwe,Zimbabwe,1974,3,0
+1629,Zimbabwe,Zimbabwe,1975,4,0
+1630,Zimbabwe,Zimbabwe,1976,3,1
+1634,Uruguay,Uruguay,1972,3,0
+1635,Yemen,Yemen,1972,2,0
+1636,Yemen,Yemen,1979,2,0
+1637,Chile,Chile,1973,3,0
+1638,Bangladesh,Uganda,1975,3,0
+1639,Bangladesh,Uganda,1976,3,0
+1640,Bangladesh,Uganda,1977,3,0
+1641,Bangladesh,Uganda,1978,3,0
+1642,Bangladesh,Uganda,1979,3,0
+1643,Bangladesh,Uganda,1980,3,0
+1644,Bangladesh,Uganda,1981,3,0
+1645,Bangladesh,Uganda,1982,3,0
+1646,Bangladesh,Uganda,1983,3,0
+1647,Bangladesh,Uganda,1984,3,0
+1648,Bangladesh,Uganda,1985,3,0
+1649,Bangladesh,Uganda,1986,3,0
+1650,Bangladesh,Uganda,1987,3,0
+1651,Bangladesh,Uganda,1988,3,1
+1652,Bangladesh,Uganda,1989,3,1
+1653,Bangladesh,Uganda,1990,3,1
+1654,Bangladesh,Uganda,1991,3,1
+1655,Cyprus,Turkey,1974,2,1
+1656,Iran,Iraq,1974,2,0
+1657,Iran,Iraq,1980,2,1
+1658,Iran,Iraq,1981,2,1
+1659,Iran,Iraq,1982,2,1
+1660,Iran,Iraq,1983,2,1
+1661,Iran,Iraq,1984,2,1
+1662,Iran,Iraq,1985,2,1
+1663,Iran,Iraq,1986,2,1
+1664,Iran,Iraq,1987,2,1
+1665,Iran,Iraq,1988,2,1
+1666,Pakistan,Pakistan,1974,3,1
+1667,Pakistan,Pakistan,1975,3,1
+1668,Pakistan,Pakistan,1976,3,1
+1669,Pakistan,Pakistan,1977,3,1
+1670,Pakistan,Pakistan,2004,3,1
+1671,Pakistan,Pakistan,2006,3,1
+1672,Pakistan,Pakistan,2007,3,1
+1673,Pakistan,Pakistan,2008,3,1
+1674,Pakistan,Pakistan,2009,3,1
+1675,Pakistan,Pakistan,2011,3,1
+1676,Pakistan,Pakistan,2012,3,1
+1677,Pakistan,Pakistan,2013,3,1
+1678,Pakistan,Pakistan,2014,3,1
+1679,Pakistan,Pakistan,2015,3,1
+1680,Pakistan,Pakistan,2016,3,1
+1681,Pakistan,Brazil,2019,3,1
+1682,Pakistan,Brazil,2020,3,1
+1683,Pakistan,Brazil,2021,3,1
+1713,Cambodia,Vietnam,1975,2,0
+1714,Cambodia,Vietnam,1976,2,0
+1715,Cambodia,Vietnam,1977,2,0
+1716,Ethiopia,Ethiopia,1964,3,0
+1725,Ethiopia,Philippines,1993,3,1
+1726,Ethiopia,Ethiopia,1994,3,1
+1727,Ethiopia,Ethiopia,1996,3,1
+1728,Ethiopia,Ethiopia,1998,3,1
+1729,Ethiopia,Ethiopia,1999,3,1
+1730,Ethiopia,Ethiopia,2000,3,1
+1731,Ethiopia,Ethiopia,2001,3,1
+1732,Ethiopia,Ethiopia,2002,3,1
+1733,Ethiopia,Ethiopia,2003,3,1
+1734,Ethiopia,Ethiopia,2004,3,1
+1735,Ethiopia,Ethiopia,2005,3,1
+1736,Ethiopia,Ethiopia,2006,3,1
+1737,Ethiopia,Ethiopia,2007,3,1
+1738,Ethiopia,Ethiopia,2008,3,1
+1739,Ethiopia,Ethiopia,2009,3,1
+1740,Ethiopia,Ethiopia,2010,3,1
+1741,Ethiopia,Ethiopia,2011,3,1
+1742,Ethiopia,Ethiopia,2012,3,1
+1743,Ethiopia,Ethiopia,2013,3,1
+1744,Ethiopia,Ethiopia,2014,3,1
+1745,Ethiopia,Ethiopia,2015,3,1
+1746,Ethiopia,Ethiopia,2016,3,1
+1780,Mozambique,Mozambique,1977,3,0
+1781,Mozambique,Mozambique,1978,3,0
+1782,Mozambique,Mozambique,1979,3,0
+1783,Mozambique,Mozambique,1980,3,0
+1784,Mozambique,Mozambique,1981,3,1
+1785,Mozambique,Mozambique,1982,3,1
+1786,Mozambique,Mozambique,1983,3,1
+1787,Mozambique,Mozambique,1984,3,1
+1788,Mozambique,Mozambique,1985,4,1
+1789,Mozambique,Mozambique,1986,4,1
+1790,Mozambique,Mozambique,1987,4,1
+1791,Mozambique,Mozambique,1988,4,1
+1792,Mozambique,Mozambique,1989,4,1
+1793,Mozambique,Mozambique,1990,4,1
+1794,Mozambique,Mozambique,1991,3,1
+1795,Mozambique,Mozambique,1992,3,1
+1796,Mozambique,Mozambique,2013,3,1
+1797,Mozambique,Mozambique,2014,3,1
+1798,Mozambique,Mozambique,2016,3,1
+1799,Mozambique,Iraq,2018,3,1
+1800,Mozambique,Iraq,2019,3,1
+1801,Afghanistan,Afghanistan,1978,3,1
+1802,Afghanistan,Afghanistan,1979,3,1
+1803,Afghanistan,Afghanistan,1980,4,1
+1804,Afghanistan,Afghanistan,1981,4,1
+1805,Afghanistan,Afghanistan,1982,4,1
+1806,Afghanistan,Afghanistan,1983,4,1
+1807,Afghanistan,Afghanistan,1984,4,1
+1808,Afghanistan,Afghanistan,1985,4,1
+1809,Afghanistan,Afghanistan,1986,4,1
+1810,Afghanistan,Afghanistan,1987,4,1
+1811,Afghanistan,Afghanistan,1988,4,1
+1812,Afghanistan,Afghanistan,1989,4,1
+1813,Afghanistan,Afghanistan,1990,3,1
+1814,Afghanistan,Afghanistan,1991,3,1
+1815,Afghanistan,Afghanistan,1992,3,1
+1816,Afghanistan,Afghanistan,1993,3,1
+1817,Afghanistan,Afghanistan,1994,3,1
+1818,Afghanistan,Afghanistan,1995,3,1
+1819,Afghanistan,Afghanistan,1996,3,1
+1820,Afghanistan,Uganda,1997,3,1
+1821,Afghanistan,Uganda,1998,3,1
+1822,Afghanistan,Uganda,1999,3,1
+1823,Afghanistan,Uganda,2000,3,1
+1824,Afghanistan,Uganda,2001,4,1
+1825,Afghanistan,Afghanistan,2002,3,1
+1826,Afghanistan,Afghanistan,2003,4,1
+1827,Afghanistan,Afghanistan,2004,4,1
+1828,Afghanistan,Afghanistan,2005,4,1
+1829,Afghanistan,Afghanistan,2006,4,1
+1830,Afghanistan,Afghanistan,2007,4,1
+1831,Afghanistan,Afghanistan,2008,4,1
+1832,Afghanistan,Afghanistan,2009,4,1
+1833,Afghanistan,Afghanistan,2010,4,1
+1834,Afghanistan,Afghanistan,2011,4,1
+1835,Afghanistan,Afghanistan,2012,4,1
+1836,Afghanistan,Afghanistan,2013,4,1
+1837,Afghanistan,Afghanistan,2014,4,1
+1838,Afghanistan,Afghanistan,2015,4,1
+1839,Afghanistan,Afghanistan,2016,4,1
+1840,Afghanistan,Afghanistan,2017,4,1
+1841,Afghanistan,Afghanistan,2018,4,1
+1842,Afghanistan,Afghanistan,2019,4,1
+1843,Afghanistan,Afghanistan,2020,4,1
+1844,Afghanistan,Afghanistan,2021,4,1
+1845,China,Vietnam,1974,2,0
+1846,China,Vietnam,1978,2,0
+1847,China,Vietnam,1979,2,1
+1848,China,Vietnam,1980,2,1
+1849,China,Vietnam,1981,2,1
+1850,China,Vietnam,1983,2,1
+1851,China,Vietnam,1984,2,1
+1852,China,Vietnam,1986,2,1
+1853,China,Vietnam,1987,2,1
+1854,China,Vietnam,1988,2,1
+1865,India,Chad,1992,3,0
+1866,India,India,1997,3,0
+1867,India,India,1999,3,0
+1868,India,India,2000,3,0
+1869,India,India,2001,3,0
+1870,India,India,2002,3,0
+1871,India,India,2003,3,0
+1872,India,India,2004,3,0
+1876,Nicaragua,Nicaragua,1982,3,1
+1877,Nicaragua,Nicaragua,1983,3,1
+1878,Nicaragua,Nicaragua,1984,3,1
+1879,Nicaragua,Nicaragua,1985,3,1
+1880,Nicaragua,Nicaragua,1986,3,1
+1881,Nicaragua,Nicaragua,1987,3,1
+1882,Nicaragua,Nicaragua,1988,3,1
+1883,Nicaragua,Nicaragua,1989,3,1
+1884,Nicaragua,Nicaragua,1990,3,1
+1917,Iran,Iran,1979,3,0
+1918,Iran,Iran,1980,3,0
+1919,Iran,Iran,1981,3,1
+1920,Iran,Iran,1982,3,1
+1921,Iran,Iran,1986,3,1
+1922,Iran,Iran,1987,3,1
+1923,Iran,Iran,1988,3,1
+1924,Iran,Iran,1991,3,1
+1925,Iran,Iran,1993,3,1
+1926,Iran,Iran,1997,3,1
+1927,Iran,Iran,1999,3,1
+1928,Iran,Iran,2000,3,1
+1929,Iran,Iran,2001,3,1
+1930,Iran,Iran,2005,3,1
+1931,Iran,Iran,2006,3,1
+1932,Iran,Iran,2007,3,1
+1933,Iran,Iran,2008,3,1
+1934,Iran,Iran,2009,3,1
+1935,Iran,Iran,2010,3,1
+1936,Iran,Iran,2011,3,1
+1937,Iran,Iran,2018,3,1
+1938,Iran,Iran,2019,3,1
+1939,Iran,Iran,2020,3,1
+1940,Iran,Iran,2021,3,1
+1941,Iran,Philippines,1979,3,0
+1942,Iran,Philippines,1980,3,0
+1943,Saudi Arabia,Algeria,1979,3,0
+1944,Liberia,Liberia,1980,3,0
+1945,Liberia,Liberia,1989,3,0
+1946,Liberia,Liberia,1990,3,0
+1947,Liberia,Liberia,2000,3,0
+1948,Liberia,Liberia,2001,3,0
+1949,Liberia,Liberia,2002,3,1
+1950,Liberia,Liberia,2003,3,1
+1951,Spain,Spain,1978,3,0
+1952,Spain,Spain,1979,3,0
+1953,Spain,Spain,1980,3,0
+1954,Spain,Spain,1981,3,0
+1955,Spain,Spain,1982,3,0
+1956,Spain,Spain,1985,3,0
+1957,Spain,Spain,1986,3,0
+1958,Spain,Spain,1987,3,0
+1959,Spain,Spain,1991,3,0
+1960,Tunisia,Tunisia,1980,3,0
+1961,Tunisia,Algeria,2013,3,0
+1962,Tunisia,Algeria,2014,3,0
+1963,Tunisia,Algeria,2015,3,0
+1964,Gambia,Nigeria,1981,4,0
+1965,South Africa,South Africa,1981,3,0
+1966,South Africa,South Africa,1982,3,0
+1967,South Africa,South Africa,1983,3,0
+1968,South Africa,South Africa,1985,3,0
+1969,South Africa,South Africa,1986,3,0
+1970,South Africa,South Africa,1987,3,0
+1971,South Africa,South Africa,1988,3,0
+1972,Argentina,United Kingdom,1982,2,0
+1973,India,India,1982,3,0
+1974,India,India,1983,3,0
+1975,India,India,1984,3,0
+1976,India,India,1985,3,0
+1977,India,India,1986,3,0
+1978,India,India,1987,3,0
+1979,India,India,1988,3,0
+1980,India,India,1993,3,0
+1981,India,India,1994,3,0
+1982,India,India,1995,3,0
+1983,India,India,1996,3,0
+1984,India,India,1998,3,0
+1985,India,India,1999,3,0
+1986,India,India,2000,3,0
+1987,India,India,2003,3,0
+1988,India,India,2004,3,0
+1989,India,India,2005,3,0
+1990,India,India,2006,3,0
+1991,India,India,2007,3,0
+1992,India,India,2008,3,1
+1993,India,India,2009,3,1
+1994,Kenya,Kenya,1982,3,0
+1995,Chad,Nigeria,1983,2,0
+1997,India,India,1983,3,0
+1998,India,India,1984,3,0
+1999,India,India,1985,3,0
+2000,India,India,1986,3,0
+2001,India,India,1987,3,1
+2002,India,India,1988,3,1
+2003,India,India,1989,3,1
+2004,India,India,1990,3,1
+2005,India,India,1991,3,1
+2006,India,India,1992,3,1
+2007,India,India,1993,3,1
+2008,Sri Lanka,Sri Lanka,1984,3,0
+2009,Sri Lanka,Sri Lanka,1985,3,0
+2010,Sri Lanka,Sri Lanka,1986,3,1
+2011,Sri Lanka,Sri Lanka,1987,3,1
+2012,Sri Lanka,Sri Lanka,1988,3,1
+2013,Sri Lanka,Sri Lanka,1989,3,1
+2014,Sri Lanka,Sri Lanka,1990,3,1
+2015,Sri Lanka,Sri Lanka,1991,3,1
+2016,Sri Lanka,Sri Lanka,1992,3,1
+2017,Sri Lanka,Sri Lanka,1993,3,1
+2018,Sri Lanka,Sri Lanka,1994,3,1
+2019,Sri Lanka,Sri Lanka,1995,3,1
+2020,Sri Lanka,Sri Lanka,1996,3,1
+2021,Sri Lanka,Sri Lanka,1997,3,1
+2022,Sri Lanka,Sri Lanka,1998,3,1
+2023,Sri Lanka,Sri Lanka,1999,3,1
+2024,Sri Lanka,Sri Lanka,2000,3,1
+2025,Sri Lanka,Sri Lanka,2001,3,1
+2026,Sri Lanka,Sri Lanka,2003,3,1
+2027,Sri Lanka,Sri Lanka,2005,3,1
+2028,Sri Lanka,Sri Lanka,2006,3,1
+2029,Sri Lanka,Sri Lanka,2007,3,1
+2030,Sri Lanka,Sri Lanka,2008,3,1
+2031,Sri Lanka,Sri Lanka,2009,3,1
+2034,Cameroon,Yemen,1984,3,1
+2035,Cameroon,Nigeria,2015,4,1
+2036,Cameroon,Nigeria,2016,3,1
+2037,Cameroon,Nigeria,2017,3,1
+2038,Cameroon,Nigeria,2020,3,1
+2039,Turkey,Turkey,1984,3,0
+2040,Turkey,Turkey,1985,3,0
+2041,Turkey,Turkey,1986,3,0
+2042,Turkey,Turkey,1987,3,1
+2043,Turkey,Turkey,1988,3,1
+2044,Turkey,Turkey,1989,3,1
+2045,Turkey,Turkey,1990,3,1
+2046,Turkey,Turkey,1991,3,1
+2047,Turkey,Turkey,1992,3,1
+2048,Turkey,Turkey,1993,3,1
+2049,Turkey,Turkey,1994,3,1
+2050,Turkey,Turkey,1995,3,1
+2051,Turkey,Turkey,1996,3,1
+2052,Turkey,Turkey,1997,3,1
+2053,Turkey,Turkey,1998,3,1
+2054,Turkey,Turkey,1999,3,1
+2055,Turkey,Turkey,2000,3,1
+2056,Turkey,Turkey,2001,3,1
+2057,Turkey,Turkey,2002,3,1
+2058,Turkey,Turkey,2003,3,1
+2059,Turkey,Turkey,2004,3,1
+2060,Turkey,Turkey,2005,3,1
+2061,Turkey,Turkey,2006,3,1
+2062,Turkey,Turkey,2007,3,1
+2063,Turkey,Turkey,2008,3,1
+2064,Turkey,Turkey,2009,3,1
+2065,Turkey,Turkey,2010,3,1
+2066,Turkey,Turkey,2011,3,1
+2067,Turkey,Turkey,2012,3,1
+2068,Turkey,Turkey,2013,3,1
+2069,Turkey,Turkey,2015,3,1
+2070,Turkey,Turkey,2016,3,1
+2071,Turkey,Turkey,2017,3,1
+2072,Turkey,Turkey,2018,3,1
+2073,Turkey,Turkey,2019,3,1
+2074,Turkey,Turkey,2020,3,1
+2075,Turkey,Turkey,2021,3,1
+2076,Burkina Faso,Mali,1985,2,0
+2077,Laos,Thailand,1986,2,0
+2078,Laos,Thailand,1987,2,0
+2079,Laos,Thailand,1988,2,0
+2081,Togo,Chad,1986,3,0
+2082,Yemen,Yemen,1986,3,1
+2084,Burkina Faso,Mali,2018,4,0
+2085,Burkina Faso,Mali,2019,4,0
+2086,Burkina Faso,Mali,2020,4,0
+2087,Burkina Faso,Mali,2021,4,1
+2088,Chad,Libya,1987,2,1
+2089,Comoros,Bolivia,1989,3,0
+2093,India,India,1990,3,0
+2094,India,India,1991,3,0
+2095,India,India,1992,3,1
+2096,India,India,1993,3,1
+2097,India,India,1994,3,1
+2098,India,India,1995,3,1
+2099,India,India,1996,3,1
+2100,India,India,1997,3,1
+2101,India,India,1998,3,1
+2102,India,India,1999,3,1
+2103,India,India,2000,3,1
+2104,India,India,2001,3,1
+2105,India,India,2002,3,1
+2106,India,India,2003,3,1
+2107,India,India,2004,3,1
+2108,India,India,2005,3,1
+2109,India,India,2006,3,1
+2110,India,India,2007,3,1
+2111,India,India,2008,3,1
+2112,India,India,2009,3,1
+2113,India,India,2010,3,1
+2114,India,India,2011,3,1
+2115,India,India,2012,3,1
+2116,India,India,2013,3,1
+2117,India,India,2014,3,1
+2118,India,India,2015,3,1
+2119,India,India,2016,3,1
+2120,India,India,2017,3,1
+2121,India,India,2018,3,1
+2122,India,India,2019,3,1
+2123,India,India,2020,3,1
+2124,India,India,2021,3,1
+2125,India,India,1990,3,0
+2126,India,India,1994,3,0
+2127,India,India,1995,3,0
+2128,India,India,1996,3,0
+2129,India,India,1997,3,0
+2130,India,India,1998,3,0
+2131,India,India,1999,3,0
+2132,India,India,2000,3,0
+2133,India,India,2001,3,0
+2134,India,India,2002,3,0
+2135,India,India,2003,3,0
+2136,India,India,2004,3,0
+2137,India,India,2005,3,0
+2138,India,India,2006,3,0
+2139,India,India,2007,3,0
+2140,India,India,2008,3,1
+2141,India,India,2009,3,1
+2142,India,India,2010,3,1
+2143,Indonesia,Indonesia,1990,3,0
+2144,Indonesia,Indonesia,1991,3,0
+2145,Indonesia,Indonesia,1999,3,0
+2146,Indonesia,Indonesia,2000,3,0
+2147,Indonesia,Indonesia,2001,3,0
+2148,Indonesia,Indonesia,2002,3,1
+2149,Indonesia,Indonesia,2003,3,1
+2150,Indonesia,Indonesia,2004,3,1
+2151,Indonesia,Indonesia,2005,3,1
+2152,Panama,Panama,1989,3,0
+2153,Panama,United States,1989,2,0
+2160,Romania,Romania,1989,3,0
+2161,Iraq,Kuwait,1990,2,1
+2162,Iraq,Kuwait,1991,2,1
+2163,Mali,Philippines,1990,3,0
+2165,Mali,Chad,1994,3,0
+2166,Mali,India,2007,3,0
+2167,Mali,India,2008,3,0
+2168,Mali,India,2009,3,0
+2169,Mali,Cambodia,2012,3,0
+2170,Mali,Cambodia,2014,3,1
+2171,Mali,Cambodia,2015,4,1
+2173,Rwanda,Rwanda,1990,4,1
+2174,Rwanda,Rwanda,1991,3,1
+2175,Rwanda,Rwanda,1992,3,1
+2176,Rwanda,Rwanda,1993,3,1
+2177,Rwanda,Rwanda,1994,3,1
+2178,Rwanda,Albania,1996,3,1
+2179,Rwanda,Albania,1997,3,1
+2180,Rwanda,Albania,1998,3,1
+2181,Rwanda,Albania,1999,3,1
+2182,Rwanda,Albania,2000,3,1
+2183,Rwanda,Congo,2001,3,1
+2184,Rwanda,Congo,2002,3,1
+2185,Rwanda,Congo,2009,4,1
+2186,Rwanda,Congo,2010,4,1
+2187,Rwanda,Congo,2011,4,1
+2188,Rwanda,Congo,2012,4,1
+2189,Rwanda,Congo,2016,4,1
+2190,Rwanda,Congo,2019,4,1
+2191,Rwanda,Congo,2020,4,1
+2192,Senegal,Senegal,1990,3,0
+2193,Senegal,Senegal,1992,3,0
+2194,Senegal,Senegal,1993,3,0
+2195,Senegal,Senegal,1995,3,0
+2196,Senegal,Senegal,1997,3,0
+2197,Senegal,Senegal,1998,3,1
+2198,Senegal,Senegal,2000,3,1
+2199,Senegal,Senegal,2001,3,1
+2200,Senegal,Senegal,2003,3,1
+2201,Senegal,Senegal,2011,3,1
+2202,Russia,Armenia,1990,3,0
+2203,Russia,Armenia,1991,3,0
+2204,Russia,Nepal,1990,3,0
+2211,Georgia,Georgia,1991,3,0
+2212,Georgia,Georgia,1992,3,0
+2213,Georgia,Georgia,1993,3,0
+2217,Sierra Leone,Sierra Leone,1991,4,0
+2218,Sierra Leone,Sierra Leone,1992,4,0
+2219,Sierra Leone,Sierra Leone,1993,4,1
+2220,Sierra Leone,Sierra Leone,1994,4,1
+2221,Sierra Leone,Sierra Leone,1995,4,1
+2222,Sierra Leone,Sierra Leone,1996,4,1
+2223,Sierra Leone,Sierra Leone,1997,4,1
+2224,Sierra Leone,Sierra Leone,1998,4,1
+2225,Sierra Leone,Sierra Leone,1999,4,1
+2226,Sierra Leone,Sierra Leone,2000,4,1
+2227,Sierra Leone,Sierra Leone,2001,3,1
+2228,Turkey,Turkey,1991,3,0
+2229,Turkey,Turkey,1992,3,0
+2230,Turkey,Turkey,1993,3,0
+2231,Turkey,Turkey,2000,3,0
+2232,Turkey,Greece,2005,3,0
+2233,Turkey,Turkey,2016,3,0
+2234,Serbia,Slovenia,1991,3,0
+2235,Serbia,Croatia,1991,3,1
+2236,Serbia,Croatia,1992,3,1
+2237,Algeria,Egypt,1991,3,0
+2238,Algeria,Algeria,1992,3,0
+2239,Algeria,Algeria,1993,3,1
+2240,Algeria,Algeria,1994,3,1
+2241,Algeria,Algeria,1995,3,1
+2242,Algeria,Algeria,1996,3,1
+2243,Algeria,Algeria,1997,3,1
+2244,Algeria,Algeria,1998,3,1
+2245,Algeria,Algeria,1999,3,1
+2246,Algeria,Algeria,2000,3,1
+2247,Algeria,Algeria,2001,3,1
+2248,Algeria,Algeria,2002,3,1
+2249,Algeria,Algeria,2003,3,1
+2250,Algeria,Algeria,2004,4,1
+2251,Algeria,Algeria,2005,3,1
+2252,Algeria,Algeria,2006,3,1
+2253,Algeria,Algeria,2007,3,1
+2254,Algeria,Algeria,2008,3,1
+2255,Algeria,Algeria,2009,3,1
+2256,Algeria,Algeria,2010,3,1
+2257,Algeria,Algeria,2011,3,1
+2258,Algeria,Algeria,2012,3,1
+2259,Algeria,Algeria,2013,3,1
+2260,Algeria,Algeria,2014,3,1
+2261,Algeria,Algeria,2015,3,1
+2262,Algeria,Algeria,2016,3,1
+2263,Algeria,Algeria,2017,3,1
+2264,Algeria,Algeria,2018,3,1
+2265,Algeria,Algeria,2020,3,1
+2282,Azerbaijan,Azerbaijan,1991,4,0
+2283,Azerbaijan,Azerbaijan,1992,4,1
+2284,Azerbaijan,Azerbaijan,1993,4,1
+2285,Azerbaijan,Azerbaijan,1994,3,1
+2286,Azerbaijan,Azerbaijan,1997,4,1
+2287,Azerbaijan,Azerbaijan,1998,4,1
+2288,Azerbaijan,Azerbaijan,2005,4,1
+2289,Azerbaijan,Azerbaijan,2008,4,1
+2290,Azerbaijan,Azerbaijan,2012,4,1
+2291,Azerbaijan,Azerbaijan,2014,4,1
+2292,Azerbaijan,Azerbaijan,2015,4,1
+2293,Azerbaijan,Azerbaijan,2016,4,1
+2294,Azerbaijan,Azerbaijan,2017,4,1
+2295,Azerbaijan,Azerbaijan,2020,4,1
+2296,Azerbaijan,Azerbaijan,2021,4,1
+2297,Bosnia and Herzegovina,Bosnia and Herzegovina,1992,4,1
+2298,Bosnia and Herzegovina,Bosnia and Herzegovina,1993,4,1
+2299,Bosnia and Herzegovina,Bosnia and Herzegovina,1994,3,1
+2300,Bosnia and Herzegovina,Bosnia and Herzegovina,1995,3,1
+2301,Croatia,Croatia,1992,4,1
+2302,Croatia,Croatia,1993,4,1
+2303,Croatia,Croatia,1995,3,1
+2304,Egypt,Egypt,1993,3,0
+2305,Egypt,Egypt,1994,3,0
+2306,Egypt,Egypt,1995,3,0
+2307,Egypt,Egypt,1996,3,0
+2308,Egypt,Egypt,1997,3,0
+2309,Egypt,Egypt,1998,3,0
+2310,Egypt,Egypt,2014,3,0
+2311,Egypt,Egypt,2017,3,1
+2312,Egypt,Egypt,2018,3,1
+2313,Egypt,Egypt,2019,3,1
+2314,Georgia,Georgia,1992,3,0
+2315,Georgia,Georgia,1993,3,1
+2316,Georgia,Georgia,1992,3,0
+2317,Georgia,Georgia,2004,3,0
+2318,Georgia,Georgia,2008,4,0
+2319,Moldova,Moldova,1992,3,0
+2320,Tajikistan,Kyrgyzstan,1992,4,1
+2321,Tajikistan,Japan,1993,4,1
+2322,Tajikistan,Japan,1994,4,1
+2323,Tajikistan,Japan,1995,4,1
+2324,Tajikistan,Japan,1996,4,1
+2325,Tajikistan,Tajikistan,1997,3,1
+2326,Tajikistan,Tajikistan,1998,3,1
+2327,Tajikistan,Tajikistan,2000,3,1
+2328,Tajikistan,Afghanistan,2010,3,1
+2329,Tajikistan,Uzbekistan,2011,3,1
+2330,Azerbaijan,Azerbaijan,1993,3,0
+2331,Azerbaijan,Nigeria,1995,3,0
+2332,Bosnia and Herzegovina,Bosnia and Herzegovina,1993,3,0
+2333,Bosnia and Herzegovina,Bosnia and Herzegovina,1994,3,0
+2334,Bosnia and Herzegovina,Bosnia and Herzegovina,1995,3,1
+2335,Bosnia and Herzegovina,Bosnia and Herzegovina,1992,3,0
+2336,Bosnia and Herzegovina,Croatia,1993,4,1
+2337,Bosnia and Herzegovina,Croatia,1994,3,1
+2338,Russia,Sierra Leone,1993,3,0
+2339,Mexico,Mexico,1994,3,0
+2340,Mexico,El Salvador,1996,3,0
+2341,Russia,Russia,1994,3,0
+2342,Russia,Russia,1995,3,1
+2343,Russia,Russia,1996,3,1
+2344,Russia,Russia,1999,3,1
+2345,Russia,Russia,2000,3,1
+2346,Russia,Russia,2001,3,1
+2347,Russia,Russia,2002,3,1
+2348,Russia,Russia,2003,3,1
+2349,Russia,Russia,2004,3,1
+2350,Russia,Russia,2005,3,1
+2351,Russia,Russia,2006,3,1
+2352,Russia,Russia,2007,3,1
+2353,Yemen,Yemen,1994,3,1
+2354,Ecuador,Peru,1995,2,0
+2355,Pakistan,Pakistan,1990,3,0
+2356,Pakistan,Pakistan,1994,3,0
+2357,Pakistan,Pakistan,1995,3,0
+2358,Pakistan,Pakistan,1996,3,0
+2359,Pakistan,Pakistan,2007,3,0
+2360,Pakistan,Pakistan,2008,3,1
+2361,Pakistan,Pakistan,2009,3,1
+2362,Pakistan,Pakistan,2010,3,1
+2363,Pakistan,Pakistan,2011,3,1
+2365,Pakistan,Pakistan,2013,3,1
+2366,Pakistan,Afghanistan,2014,3,1
+2367,Pakistan,Pakistan,2015,4,1
+2368,Pakistan,Pakistan,2016,4,1
+2369,Pakistan,Pakistan,2017,4,1
+2370,Pakistan,Pakistan,2018,4,1
+2371,Pakistan,Pakistan,2019,3,1
+2372,Pakistan,Pakistan,2020,3,1
+2373,Pakistan,Pakistan,2021,3,1
+2374,Cameroon,Nigeria,1996,2,0
+2375,Niger,Congo,1995,3,0
+2376,Comoros,Comoros,1997,3,0
+2377,Congo,Congo,1993,3,0
+2378,Congo,Ivory Coast,1997,4,1
+2380,Congo,Congo,1999,4,1
+2381,Congo,Congo,2002,4,1
+2382,Congo,Congo,2016,3,1
+2389,Lesotho,Lesotho,1998,4,0
+2390,Serbia,Kosovo,1998,3,1
+2391,Serbia,Kosovo,1999,4,1
+2392,Ethiopia,Ethiopia,1977,3,0
+2393,Ethiopia,Ethiopia,1978,3,0
+2394,Ethiopia,Ethiopia,1980,4,0
+2395,Ethiopia,Ethiopia,1981,3,1
+2396,Ethiopia,Ethiopia,1983,3,1
+2397,Ethiopia,Ethiopia,1984,3,1
+2398,Ethiopia,Ethiopia,1985,3,1
+2399,Ethiopia,Ethiopia,1986,3,1
+2400,Ethiopia,Ethiopia,1987,3,1
+2401,Ethiopia,Ethiopia,1988,3,1
+2402,Ethiopia,Ethiopia,1989,3,1
+2403,Ethiopia,Ethiopia,1990,3,1
+2404,Ethiopia,Ethiopia,1991,3,1
+2405,Ethiopia,Ethiopia,1992,3,1
+2406,Ethiopia,Ethiopia,1994,3,1
+2407,Ethiopia,Ethiopia,1995,3,1
+2408,Ethiopia,Ethiopia,1998,3,1
+2409,Ethiopia,Ethiopia,1999,3,1
+2410,Ethiopia,Ethiopia,2000,3,1
+2411,Ethiopia,Ethiopia,2001,3,1
+2412,Ethiopia,Ethiopia,2002,3,1
+2413,Ethiopia,Ethiopia,2003,3,1
+2414,Ethiopia,Ethiopia,2004,3,1
+2415,Ethiopia,Ethiopia,2005,3,1
+2416,Ethiopia,Ethiopia,2006,3,1
+2417,Ethiopia,Ethiopia,2007,3,1
+2418,Ethiopia,Ethiopia,2008,3,1
+2419,Ethiopia,Ethiopia,2009,3,1
+2420,Ethiopia,Ethiopia,2010,3,1
+2421,Ethiopia,Ethiopia,2011,3,1
+2422,Ethiopia,Ethiopia,2012,3,1
+2423,Ethiopia,Ethiopia,2013,3,1
+2424,Ethiopia,Ethiopia,2015,3,1
+2425,Ethiopia,Ethiopia,2016,3,1
+2426,Ethiopia,Peru,2019,3,1
+2427,Ethiopia,Peru,2020,3,1
+2428,Ethiopia,Peru,2021,3,1
+2429,Russia,Russia,1999,3,0
+2430,Uzbekistan,Uzbekistan,1999,3,0
+2431,Uzbekistan,Uzbekistan,2000,4,0
+2432,Uzbekistan,Nigeria,2004,3,0
+2448,United States,Afghanistan,2001,4,1
+2449,United States,Afghanistan,2002,4,1
+2450,United States,Afghanistan,2003,4,1
+2451,United States,Afghanistan,2004,4,1
+2452,United States,Afghanistan,2005,4,1
+2453,United States,Afghanistan,2006,4,1
+2454,United States,Afghanistan,2007,4,1
+2455,United States,Afghanistan,2008,4,1
+2456,United States,Afghanistan,2009,4,1
+2457,United States,Afghanistan,2010,4,1
+2458,United States,Afghanistan,2011,4,1
+2459,United States,Afghanistan,2012,4,1
+2460,United States,Afghanistan,2013,4,1
+2461,United States,Afghanistan,2014,4,1
+2462,United States,Afghanistan,2015,4,1
+2463,United States,Afghanistan,2016,4,1
+2464,United States,Afghanistan,2017,4,1
+2465,United States,Afghanistan,2019,4,1
+2466,Ivory Coast,Ivory Coast,2002,3,0
+2467,Ivory Coast,Ivory Coast,2003,3,0
+2468,Ivory Coast,Ivory Coast,2004,3,0
+2469,Ivory Coast,Ivory Coast,2011,3,0
+2471,India,Nigeria,1989,3,0
+2472,India,Nigeria,1990,3,0
+2473,India,India,1994,3,0
+2474,India,India,1996,3,0
+2475,India,India,1997,3,0
+2476,India,India,1998,3,0
+2477,India,India,1999,3,0
+2478,India,India,2001,3,0
+2479,India,India,2002,3,0
+2480,India,India,2003,3,0
+2481,India,India,2004,3,0
+2482,India,India,2009,3,0
+2483,India,India,2010,3,0
+2484,India,India,2013,3,0
+2485,India,India,2014,3,0
+2486,Myanmar,Myanmar,1997,3,0
+2487,Thailand,Thailand,2003,3,0
+2488,Thailand,Thailand,2004,3,0
+2489,Thailand,Thailand,2005,3,0
+2490,Thailand,Thailand,2006,3,0
+2491,Thailand,Thailand,2007,3,0
+2492,Thailand,Thailand,2008,3,0
+2493,Thailand,Thailand,2009,3,1
+2494,Thailand,Thailand,2010,3,1
+2495,Thailand,Thailand,2011,3,1
+2496,Thailand,Thailand,2012,3,1
+2497,Thailand,Thailand,2013,3,1
+2498,Thailand,Thailand,2014,3,1
+2499,Thailand,Thailand,2015,3,1
+2500,Thailand,Thailand,2016,3,1
+2501,Thailand,Thailand,2017,3,1
+2502,Thailand,Thailand,2018,3,1
+2503,Thailand,Thailand,2019,3,1
+2504,Thailand,Thailand,2020,3,1
+2505,Thailand,Thailand,2021,3,1
+2506,Nigeria,Nigeria,2004,3,0
+2507,Nigeria,Nigeria,2004,3,0
+2508,Israel,Lebanon,1990,3,0
+2509,Israel,Lebanon,1991,3,0
+2510,Israel,Lebanon,1992,3,0
+2511,Israel,Lebanon,1993,3,0
+2512,Israel,Lebanon,1994,3,0
+2513,Israel,Lebanon,1995,3,0
+2514,Israel,Lebanon,1996,3,0
+2515,Israel,Lebanon,1997,3,0
+2516,Israel,Lebanon,1998,3,0
+2517,Israel,Lebanon,1999,3,0
+2518,Israel,Lebanon,2006,3,1
+2519,Tanzania,Uganda,1978,2,0
+2528,Niger,Mexico,1991,3,0
+2529,Niger,Mexico,1992,3,0
+2531,Niger,Peru,2007,3,0
+2532,Niger,Peru,2008,3,0
+2533,Niger,Mali,2021,4,0
+2534,Afghanistan,Russia,1979,2,0
+2535,Russia,Russia,2007,3,0
+2536,Russia,Russia,2008,3,0
+2537,Russia,Russia,2009,3,1
+2538,Russia,Russia,2010,3,1
+2539,Russia,Russia,2011,3,1
+2540,Russia,Russia,2012,3,1
+2541,Russia,Russia,2013,3,1
+2542,Russia,Russia,2014,3,1
+2543,Russia,Russia,2015,3,1
+2552,Myanmar,Myanmar,2009,3,0
+2553,Myanmar,Myanmar,2014,3,0
+2554,Myanmar,Myanmar,2015,3,0
+2555,Myanmar,Myanmar,2017,3,0
+2556,Myanmar,Myanmar,2021,3,0
+2557,Myanmar,Liberia,1973,3,0
+2558,Myanmar,Liberia,1974,3,0
+2559,Myanmar,Liberia,1975,3,0
+2560,Myanmar,Liberia,1976,3,0
+2561,Myanmar,Liberia,1977,3,0
+2562,Myanmar,Liberia,1978,3,0
+2563,Myanmar,Liberia,1979,3,0
+2564,Myanmar,Liberia,1980,3,0
+2565,Myanmar,Liberia,1981,3,0
+2566,Myanmar,Liberia,1982,3,0
+2567,Mauritania,Algeria,2010,4,0
