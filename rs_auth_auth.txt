@@ -1,0 +1,25 @@
+                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     Democracy Score 2010   R-squared (uncentered):                   0.953
+Model:                              OLS   Adj. R-squared (uncentered):              0.952
+Method:                   Least Squares   F-statistic:                              2598.
+Date:                  Thu, 25 May 2023   Prob (F-statistic):                    2.43e-87
+Time:                          16:36:41   Log-Likelihood:                         -220.63
+No. Observations:                   130   AIC:                                      443.3
+Df Residuals:                       129   BIC:                                      446.1
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+2010           0.7656      0.015     50.972      0.000       0.736       0.795
+==============================================================================
+Omnibus:                        0.553   Durbin-Watson:                   1.966
+Prob(Omnibus):                  0.758   Jarque-Bera (JB):                0.247
+Skew:                           0.072   Prob(JB):                        0.884
+Kurtosis:                       3.158   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
